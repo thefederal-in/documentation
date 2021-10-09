@@ -14,13 +14,13 @@ Mobile: 400px
 
 ### Election Dashboard Resources
 
-- [Geojson.io](https://geojson.io)
-- [mapshaper](https://mapshaper.org/)
-- [psleci.nic.in](http://psleci.nic.in/)
-- [datameet](http://projects.datameet.org/maps/)
-- [indiavotes](https://www..com/)
-- [results.eci.gov.in](https://results.eci.gov.in/)
-- [myneta.info](https://www.myneta.info/)
+- [Geojson.io](https://geojson.io) - KML to Topojson
+- [mapshaper](https://mapshaper.org/) - Shp file to Topojson
+- [psleci.nic.in](http://psleci.nic.in/) - KML of Assembly Elections
+- [datameet](http://projects.datameet.org/maps/) 
+- [indiavotes](https://www..com/) - For Previous Data
+- [results.eci.gov.in](https://results.eci.gov.in/)  - For Live Data
+- [myneta.info](https://www.myneta.info/)  - ADR Data
 
 <hr>
 
