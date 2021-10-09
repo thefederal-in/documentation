@@ -44,9 +44,13 @@ Step 5: Repeat Step 1 and find the list of said timeline get the shortcode to us
 
 <hr>
 
-### How are interactives setup in the Backend
+### How are interactives setup in the Backend (FYI only - Done by Developers)
+Step 1: The Code is added on the backend in the cpanel in embed folder
 
+Step 2: The Code is added to content area in Backend or iframe script custom field
 ![Timeline-Step-1](interactives-setup/interactive-setup-step1.JPG)
 ![Timeline-Step-2](interactives-setup/interactive-setup-step1-1.JPG)
+
+Step 3: Add the copy from cpanel as url in mobile script to enable in mobile app
 ![Timeline-Step-3](interactives-setup/interactive-setup-step2.JPG)
 
