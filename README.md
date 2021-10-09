@@ -26,6 +26,13 @@ Mobile: 400px
 
 ### How to use Timeline Shortcode
 
+![Timeline-Step-1](timeline-tut/timeline-step-1.jpg)
+![Timeline-Step-2](timeline-tut/timeline-step-2.jpg)
+![Timeline-Step-3](timeline-tut/timeline-step-3.jpg)
+![Timeline-Step-4](timeline-tut/timeline-step-4.jpg)
+![Timeline-Step-5](timeline-tut/timeline-step-5.jpg)
+
+
 <hr>
 
 ### How are interactives setup in the Backend
