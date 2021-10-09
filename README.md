@@ -26,10 +26,19 @@ Mobile: 400px
 
 ### How to use Timeline Shortcode
 
+Step 1: Click on timeline menu on side bar in the Dashboard
 ![Timeline-Step-1](timeline-tut/timeline-step-1.jpg)
+
+Step 2: Add Title and description of Timeline and click on add button
 ![Timeline-Step-2](timeline-tut/timeline-step-2.jpg)
+
+Step 3: In the list below find the added Timeline and click on edit
 ![Timeline-Step-3](timeline-tut/timeline-step-3.jpg)
+
+Step 4: Add Text or Date, Month, Year, image path(Optional), Description and click add button. Repeat step until all points are added
 ![Timeline-Step-4](timeline-tut/timeline-step-4.jpg)
+
+Step 5: Repeat Step 1 and find the list of said timeline get the shortcode to use in story
 ![Timeline-Step-5](timeline-tut/timeline-step-5.jpg)
 
 
