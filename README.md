@@ -36,3 +36,8 @@ Mobile: 400px
 <hr>
 
 ### How are interactives setup in the Backend
+
+![Timeline-Step-1](interactives-setup/interactive-setup-step1.JPG)
+![Timeline-Step-2](interactives-setup/interactive-setup-step1-1.JPG)
+![Timeline-Step-3](interactives-setup/interactive-setup-step2.JPG)
+
