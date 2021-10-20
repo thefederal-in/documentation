@@ -1,0 +1,4032 @@
+ [
+    {
+      "Constituency": "Seohara",
+      "Const. No.": 1,
+      "Leading Candidate": "Qutubudeen",
+      "Leading Party": "Bahujan Samaj Party",
+      "Trailing Candidate": "Yogesh Pratap Singh Alias Yogesh Bhaiya",
+      "Trailing Party": "Bahujan Samaj Party",
+      "Margin": 2149,
+      "Status": "Result Declared"
+    },
+    {
+      "Constituency": "Dhampur",
+      "Const. No.": 2,
+      "Leading Candidate": "Mool Chand",
+      "Leading Party": "Samajwadi Party",
+      "Trailing Candidate": "Yogendra Kumar",
+      "Trailing Party": "Samajwadi Party",
+      "Margin": 10553,
+      "Status": "Result Declared"
+    },
+    {
+      "Constituency": "Afzalgarh",
+      "Const. No.": 3,
+      "Leading Candidate": "Indra Dev",
+      "Leading Party": "Bharatiya Janta Party",
+      "Trailing Candidate": "Yashwant",
+      "Trailing Party": "Rashtriya Lok Dal",
+      "Margin": 727,
+      "Status": "Result Declared"
+    },
+    {
+      "Constituency": "Nagina",
+      "Const. No.": 4,
+      "Leading Candidate": "Omvati Devi",
+      "Leading Party": "Samajwadi Party",
+      "Trailing Candidate": "Yashpal Chaudhary",
+      "Trailing Party": "Samajwadi Party",
+      "Margin": 2131,
+      "Status": "Result Declared"
+    },
+    {
+      "Constituency": "Nazibabad",
+      "Const. No.": 5,
+      "Leading Candidate": "Ram Swroop Singh",
+      "Leading Party": "Communist Party Of India (MARXIST)",
+      "Trailing Candidate": "Waseem Ahmad",
+      "Trailing Party": "Samajwadi Party",
+      "Margin": 4842,
+      "Status": "Result Declared"
+    },
+    {
+      "Constituency": "Bijnor",
+      "Const. No.": 6,
+      "Leading Candidate": "Kunvar Bhartander Singh",
+      "Leading Party": "Bharatiya Janta Party",
+      "Trailing Candidate": "Vivek Bansal",
+      "Trailing Party": "Indian National Congress",
+      "Margin": 16339,
+      "Status": "Result Declared"
+    },
+    {
+      "Constituency": "Chandpur",
+      "Const. No.": 7,
+      "Leading Candidate": "Swami Omvesh",
+      "Leading Party": "Rashtriya Lok Dal",
+      "Trailing Candidate": "Vishram Singh Yadav",
+      "Trailing Party": "Samajwadi Party",
+      "Margin": 10667,
+      "Status": "Result Declared"
+    },
+    {
+      "Constituency": "Kanth",
+      "Const. No.": 8,
+      "Leading Candidate": "Rizwan Ahmed Khan",
+      "Leading Party": "Bahujan Samaj Party",
+      "Trailing Candidate": "Vishambhar Prasad Nishad",
+      "Trailing Party": "Samajwadi Party",
+      "Margin": 9578,
+      "Status": "Result Declared"
+    },
+    {
+      "Constituency": "Amroha",
+      "Const. No.": 9,
+      "Leading Candidate": "Mehboob Ali",
+      "Leading Party": "Rashtriya Parivartan Dal",
+      "Trailing Candidate": "Vireshwar",
+      "Trailing Party": "Samajwadi Party",
+      "Margin": 9272,
+      "Status": "Result Declared"
+    },
+    {
+      "Constituency": "Hasanpur",
+      "Const. No.": 10,
+      "Leading Candidate": "Devendra Nagpal",
+      "Leading Party": "Independent",
+      "Trailing Candidate": "Virendra Singh",
+      "Trailing Party": "Samajwadi Party",
+      "Margin": 29573,
+      "Status": "Result Declared"
+    },
+    {
+      "Constituency": "Gangeshwari",
+      "Const. No.": 11,
+      "Leading Candidate": "Jagram",
+      "Leading Party": "Samajwadi Party",
+      "Trailing Candidate": "Virendra Singh",
+      "Trailing Party": "Rashtriya Lok Dal",
+      "Margin": 10185,
+      "Status": "Result Declared"
+    },
+    {
+      "Constituency": "Sambhal",
+      "Const. No.": 12,
+      "Leading Candidate": "Iqbal Mahmood",
+      "Leading Party": "Samajwadi Party",
+      "Trailing Candidate": "Virendra Pratap Singh \"munna\"",
+      "Trailing Party": "Indian National Congress",
+      "Margin": 21306,
+      "Status": "Result Declared"
+    },
+    {
+      "Constituency": "Bahjoi",
+      "Const. No.": 13,
+      "Leading Candidate": "Aqeelur Rehman Khan",
+      "Leading Party": "Bahujan Samaj Party",
+      "Trailing Candidate": "Vinod Kumar Yadav \"kakka\"",
+      "Trailing Party": "Indian National Congress",
+      "Margin": 14107,
+      "Status": "Result Declared"
+    },
+    {
+      "Constituency": "Chandausi",
+      "Const. No.": 14,
+      "Leading Candidate": "Gulab Devi",
+      "Leading Party": "Bharatiya Janta Party",
+      "Trailing Candidate": "Vinod Kumar Singh",
+      "Trailing Party": "Bahujan Samaj Party",
+      "Margin": 700,
+      "Status": "Result Declared"
+    },
+    {
+      "Constituency": "Kunderki",
+      "Const. No.": 15,
+      "Leading Candidate": "Mohd. Rizwan",
+      "Leading Party": "Samajwadi Party",
+      "Trailing Candidate": "Vinod Kumar Alias Pandit Singh",
+      "Trailing Party": "Samajwadi Party",
+      "Margin": 17882,
+      "Status": "Result Declared"
+    },
+    {
+      "Constituency": "Moradabad West",
+      "Const. No.": 16,
+      "Leading Candidate": "Mohd. Aaqil Urf Munna Miyan",
+      "Leading Party": "Bahujan Samaj Party",
+      "Trailing Candidate": "Vinay Shakya",
+      "Trailing Party": "Bahujan Samaj Party",
+      "Margin": 8336,
+      "Status": "Result Declared"
+    },
+    {
+      "Constituency": "Moradabad",
+      "Const. No.": 17,
+      "Leading Candidate": "Sandeep Agarwal",
+      "Leading Party": "Bharatiya Janta Party",
+      "Trailing Candidate": "Vimal Krishana Agarwal Urf Pappi",
+      "Trailing Party": "Bahujan Samaj Party",
+      "Margin": 14981,
+      "Status": "Result Declared"
+    },
+    {
+      "Constituency": "Moradabad Rural",
+      "Const. No.": 18,
+      "Leading Candidate": "Shamimul Haq",
+      "Leading Party": "Indian National Congress",
+      "Trailing Candidate": "Vijendra Singh",
+      "Trailing Party": "Indian National Congress",
+      "Margin": 14917,
+      "Status": "Result Declared"
+    },
+    {
+      "Constituency": "Thakurdwara",
+      "Const. No.": 19,
+      "Leading Candidate": "Kunwar Sarvesh Kumar Alias Rakesh",
+      "Leading Party": "Bharatiya Janta Party",
+      "Trailing Candidate": "Vijaya Yadav",
+      "Trailing Party": "Samajwadi Party",
+      "Margin": 3255,
+      "Status": "Result Declared"
+    },
+    {
+      "Constituency": "Suar Tanda",
+      "Const. No.": 20,
+      "Leading Candidate": "Nawab Kazim Ali Khan Alias Naved Mian",
+      "Leading Party": "Indian National Congress",
+      "Trailing Candidate": "Vijay Singh",
+      "Trailing Party": "Samajwadi Party",
+      "Margin": 27010,
+      "Status": "Result Declared"
+    },
+    {
+      "Constituency": "Rampur",
+      "Const. No.": 21,
+      "Leading Candidate": "Mohd. Azam Khan",
+      "Leading Party": "Samajwadi Party",
+      "Trailing Candidate": "Vijay Kumar Mishra",
+      "Trailing Party": "Samajwadi Party",
+      "Margin": 37991,
+      "Status": "Result Declared"
+    },
+    {
+      "Constituency": "Bilaspur",
+      "Const. No.": 22,
+      "Leading Candidate": "Beena Bhardwaj",
+      "Leading Party": "Samajwadi Party",
+      "Trailing Candidate": "Vijay Bahadur Pal",
+      "Trailing Party": "Samajwadi Party",
+      "Margin": 20410,
+      "Status": "Result Declared"
+    },
+    {
+      "Constituency": "Shahabad",
+      "Const. No.": 23,
+      "Leading Candidate": "Kashi Ram",
+      "Leading Party": "Samajwadi Party",
+      "Trailing Candidate": "Vidya Sagar Gupta",
+      "Trailing Party": "Bharatiya Janta Party",
+      "Margin": 12252,
+      "Status": "Result Declared"
+    },
+    {
+      "Constituency": "Bisauli",
+      "Const. No.": 24,
+      "Leading Candidate": "Yogendra Kumar",
+      "Leading Party": "Samajwadi Party",
+      "Trailing Candidate": "Vidya Chaudhary",
+      "Trailing Party": "Bahujan Samaj Party",
+      "Margin": 2251,
+      "Status": "Result Declared"
+    },
+    {
+      "Constituency": "Gunnaur",
+      "Const. No.": 25,
+      "Leading Candidate": "Ajit Kumar Urf Raju Yadav",
+      "Leading Party": "Janata Dal (United)",
+      "Trailing Candidate": "Ved Ram Bhati",
+      "Trailing Party": "Bahujan Samaj Party",
+      "Margin": 5181,
+      "Status": "Result Declared"
+    },
+    {
+      "Constituency": "Sahaswan",
+      "Const. No.": 26,
+      "Leading Candidate": "Omkar Singh Yadav",
+      "Leading Party": "Samajwadi Party",
+      "Trailing Candidate": "Usha Verma",
+      "Trailing Party": "Samajwadi Party",
+      "Margin": 13330,
+      "Status": "Result Declared"
+    },
+    {
+      "Constituency": "Bilsi",
+      "Const. No.": 27,
+      "Leading Candidate": "Ashutosh Maurya Urf Raju",
+      "Leading Party": "Samajwadi Party",
+      "Trailing Candidate": "Umashanker",
+      "Trailing Party": "Bahujan Samaj Party",
+      "Margin": 12036,
+      "Status": "Result Declared"
+    },
+    {
+      "Constituency": "Budaun",
+      "Const. No.": 28,
+      "Leading Candidate": "Vimal Krishana Agarwal Urf Pappi",
+      "Leading Party": "Bahujan Samaj Party",
+      "Trailing Candidate": "Uma",
+      "Trailing Party": "Bahujan Samaj Party",
+      "Margin": 3314,
+      "Status": "Result Declared"
+    },
+    {
+      "Constituency": "Usehat",
+      "Const. No.": 29,
+      "Leading Candidate": "Ashish Yadav",
+      "Leading Party": "Samajwadi Party",
+      "Trailing Candidate": "Uday Bhan Singh",
+      "Trailing Party": "Bahujan Samaj Party",
+      "Margin": 8398,
+      "Status": "Result Declared"
+    },
+    {
+      "Constituency": "Binawar",
+      "Const. No.": 30,
+      "Leading Candidate": "Bhupendra Singh",
+      "Leading Party": "Bahujan Samaj Party",
+      "Trailing Candidate": "Udai Raj",
+      "Trailing Party": "Samajwadi Party",
+      "Margin": 3902,
+      "Status": "Result Declared"
+    },
+    {
+      "Constituency": "Dataganj",
+      "Const. No.": 31,
+      "Leading Candidate": "Prem Pal Singh Yadav",
+      "Leading Party": "Samajwadi Party",
+      "Trailing Candidate": "Udai Bhan Karvaria",
+      "Trailing Party": "Bharatiya Janta Party",
+      "Margin": 1621,
+      "Status": "Result Declared"
+    },
+    {
+      "Constituency": "Aonla",
+      "Const. No.": 32,
+      "Leading Candidate": "Dharm Pal Singh",
+      "Leading Party": "Bharatiya Janta Party",
+      "Trailing Candidate": "Thakur Jaivir Singh",
+      "Trailing Party": "Bahujan Samaj Party",
+      "Margin": 263,
+      "Status": "Result Declared"
+    },
+    {
+      "Constituency": "Sunha",
+      "Const. No.": 33,
+      "Leading Candidate": "Dharmendra Kumar",
+      "Leading Party": "Bahujan Samaj Party",
+      "Trailing Candidate": "Tej Pal Singh",
+      "Trailing Party": "Rashtriya Lok Dal",
+      "Margin": 2769,
+      "Status": "Result Declared"
+    },
+    {
+      "Constituency": "Faridpur",
+      "Const. No.": 34,
+      "Leading Candidate": "Dr. Siyaram Sagar",
+      "Leading Party": "Samajwadi Party",
+      "Trailing Candidate": "Swami Prasad Maurya",
+      "Trailing Party": "Bahujan Samaj Party",
+      "Margin": 238,
+      "Status": "Result Declared"
+    },
+    {
+      "Constituency": "Bareilly Cantonment",
+      "Const. No.": 35,
+      "Leading Candidate": "Shahlin Islam",
+      "Leading Party": "Independent",
+      "Trailing Candidate": "Swami Omvesh",
+      "Trailing Party": "Rashtriya Lok Dal",
+      "Margin": 8790,
+      "Status": "Result Declared"
+    },
+    {
+      "Constituency": "Bareilly City",
+      "Const. No.": 36,
+      "Leading Candidate": "Rajesh Agrawal",
+      "Leading Party": "Bharatiya Janta Party",
+      "Trailing Candidate": "Suresh Kumar Srivastava",
+      "Trailing Party": "Bharatiya Janta Party",
+      "Margin": 12974,
+      "Status": "Result Declared"
+    },
+    {
+      "Constituency": "Nawabganj",
+      "Const. No.": 37,
+      "Leading Candidate": "Bhagwat Saran Gangwar",
+      "Leading Party": "Samajwadi Party",
+      "Trailing Candidate": "Suresh Kumar Khanna",
+      "Trailing Party": "Bharatiya Janta Party",
+      "Margin": 28905,
+      "Status": "Result Declared"
+    },
+    {
+      "Constituency": "Bhojipura",
+      "Const. No.": 38,
+      "Leading Candidate": "Virendra Singh",
+      "Leading Party": "Samajwadi Party",
+      "Trailing Candidate": "Suresh Chandra Tiwari",
+      "Trailing Party": "Bharatiya Janta Party",
+      "Margin": 6375,
+      "Status": "Result Declared"
+    },
+    {
+      "Constituency": "Kawar",
+      "Const. No.": 39,
+      "Leading Candidate": "Sultan Beg",
+      "Leading Party": "Samajwadi Party",
+      "Trailing Candidate": "Surendra Vikram Singh",
+      "Trailing Party": "Bahujan Samaj Party",
+      "Margin": 2907,
+      "Status": "Result Declared"
+    },
+    {
+      "Constituency": "Baheri",
+      "Const. No.": 40,
+      "Leading Candidate": "Manzoor Ahmad",
+      "Leading Party": "Samajwadi Party",
+      "Trailing Candidate": "Surendra Singh Patel",
+      "Trailing Party": "Apna Dal",
+      "Margin": 2883,
+      "Status": "Result Declared"
+    },
+    {
+      "Constituency": "Pilibhit",
+      "Const. No.": 41,
+      "Leading Candidate": "Riaz Ahmad",
+      "Leading Party": "Samajwadi Party",
+      "Trailing Candidate": "Surendra Pratap",
+      "Trailing Party": "Bharatiya Janta Party",
+      "Margin": 9971,
+      "Status": "Result Declared"
+    },
+    {
+      "Constituency": "Barkhera",
+      "Const. No.": 42,
+      "Leading Candidate": "Peetam Ram",
+      "Leading Party": "Samajwadi Party",
+      "Trailing Candidate": "Surendra Prakash Goel",
+      "Trailing Party": "Indian National Congress",
+      "Margin": 14225,
+      "Status": "Result Declared"
+    },
+    {
+      "Constituency": "Bisalpur",
+      "Const. No.": 43,
+      "Leading Candidate": "Anis Ahmad Khan Alias Phool Babu",
+      "Leading Party": "Bahujan Samaj Party",
+      "Trailing Candidate": "Suraj Singh Shakya",
+      "Trailing Party": "Samajwadi Party",
+      "Margin": 7663,
+      "Status": "Result Declared"
+    },
+    {
+      "Constituency": "Puranpur",
+      "Const. No.": 44,
+      "Leading Candidate": "Dr. Vinod Tiwari",
+      "Leading Party": "Bharatiya Janta Party",
+      "Trailing Candidate": "Sunder Singh",
+      "Trailing Party": "Rashtriya Kranti Party",
+      "Margin": 8556,
+      "Status": "Result Declared"
+    },
+    {
+      "Constituency": "Powayan",
+      "Const. No.": 45,
+      "Leading Candidate": "Mithlesh Kumar",
+      "Leading Party": "Independent",
+      "Trailing Candidate": "Sundar Lal",
+      "Trailing Party": "Samajwadi Party",
+      "Margin": 1844,
+      "Status": "Result Declared"
+    },
+    {
+      "Constituency": "Nigohi",
+      "Const. No.": 46,
+      "Leading Candidate": "Kovid Kumar",
+      "Leading Party": "Bharatiya Janta Party",
+      "Trailing Candidate": "Sultan Beg",
+      "Trailing Party": "Samajwadi Party",
+      "Margin": 896,
+      "Status": "Result Declared"
+    },
+    {
+      "Constituency": "Tilhar",
+      "Const. No.": 47,
+      "Leading Candidate": "Virendra Pratap Singh \"munna\"",
+      "Leading Party": "Indian National Congress",
+      "Trailing Candidate": "Sukhdevi Verma",
+      "Trailing Party": "Samajwadi Party",
+      "Margin": 1358,
+      "Status": "Result Declared"
+    },
+    {
+      "Constituency": "Jalalabad",
+      "Const. No.": 48,
+      "Leading Candidate": "Sharadveer Singh",
+      "Leading Party": "Samajwadi Party",
+      "Trailing Candidate": "Sukhdev Rajbhar",
+      "Trailing Party": "Bahujan Samaj Party",
+      "Margin": 16061,
+      "Status": "Result Declared"
+    },
+    {
+      "Constituency": "Dadraul",
+      "Const. No.": 49,
+      "Leading Candidate": "Avdhesh Kumar",
+      "Leading Party": "Bahujan Samaj Party",
+      "Trailing Candidate": "Sovran Singh",
+      "Trailing Party": "Bharatiya Janta Party",
+      "Margin": 4391,
+      "Status": "Result Declared"
+    },
+    {
+      "Constituency": "Shahjahanpur",
+      "Const. No.": 50,
+      "Leading Candidate": "Suresh Kumar Khanna",
+      "Leading Party": "Bharatiya Janta Party",
+      "Trailing Candidate": "Somaru Ram Saroj",
+      "Trailing Party": "Bharatiya Janta Party",
+      "Margin": 23037,
+      "Status": "Result Declared"
+    },
+    {
+      "Constituency": "Mohamdi",
+      "Const. No.": 51,
+      "Leading Candidate": "Banshi Dhar Raj",
+      "Leading Party": "Samajwadi Party",
+      "Trailing Candidate": "Sita Ram Nishad",
+      "Trailing Party": "Samajwadi Party",
+      "Margin": 1915,
+      "Status": "Result Declared"
+    },
+    {
+      "Constituency": "Haiderabad",
+      "Const. No.": 52,
+      "Leading Candidate": "Arvind Giri",
+      "Leading Party": "Samajwadi Party",
+      "Trailing Candidate": "Siddha Gopal",
+      "Trailing Party": "Samajwadi Party",
+      "Margin": 14553,
+      "Status": "Result Declared"
+    },
+    {
+      "Constituency": "Paila",
+      "Const. No.": 53,
+      "Leading Candidate": "Rajesh Kumar",
+      "Leading Party": "Bahujan Samaj Party",
+      "Trailing Candidate": "Shyam Surat Upadhya",
+      "Trailing Party": "Indian National Congress",
+      "Margin": 5284,
+      "Status": "Result Declared"
+    },
+    {
+      "Constituency": "Lakhimpur",
+      "Const. No.": 54,
+      "Leading Candidate": "Kaushal Kishor",
+      "Leading Party": "Samajwadi Party",
+      "Trailing Candidate": "Shyam Sunder Sharma",
+      "Trailing Party": "Akhil Bhartiya Lok Tantrik Congress",
+      "Margin": 6581,
+      "Status": "Result Declared"
+    },
+    {
+      "Constituency": "Srinagar",
+      "Const. No.": 55,
+      "Leading Candidate": "Mayavati",
+      "Leading Party": "Bahujan Samaj Party",
+      "Trailing Candidate": "Shyam Narain",
+      "Trailing Party": "Indian National Congress",
+      "Margin": 4462,
+      "Status": "Result Declared"
+    },
+    {
+      "Constituency": "Nighasan",
+      "Const. No.": 56,
+      "Leading Candidate": "R.S. Kushwaha",
+      "Leading Party": "Bahujan Samaj Party",
+      "Trailing Candidate": "Shyam Lal Rawat",
+      "Trailing Party": "Samajwadi Party",
+      "Margin": 4386,
+      "Status": "Result Declared"
+    },
+    {
+      "Constituency": "Dhaurehra",
+      "Const. No.": 57,
+      "Leading Candidate": "Yashpal Chaudhary",
+      "Leading Party": "Samajwadi Party",
+      "Trailing Candidate": "Shyam Dew Rai Chaudhari (dada)",
+      "Trailing Party": "Bharatiya Janta Party",
+      "Margin": 8233,
+      "Status": "Result Declared"
+    },
+    {
+      "Constituency": "Behta",
+      "Const. No.": 58,
+      "Leading Candidate": "Mahendra Kumar Singh",
+      "Leading Party": "Samajwadi Party",
+      "Trailing Candidate": "Shyam",
+      "Trailing Party": "Bharatiya Janta Party",
+      "Margin": 14290,
+      "Status": "Result Declared"
+    },
+    {
+      "Constituency": "Biswan",
+      "Const. No.": 59,
+      "Leading Candidate": "Ram Pal Yadav",
+      "Leading Party": "Samajwadi Party",
+      "Trailing Candidate": "Shivtapasya",
+      "Trailing Party": "Bharatiya Janta Party",
+      "Margin": 5637,
+      "Status": "Result Declared"
+    },
+    {
+      "Constituency": "Mahmudabad",
+      "Const. No.": 60,
+      "Leading Candidate": "Narendra Singh",
+      "Leading Party": "Bharatiya Janta Party",
+      "Trailing Candidate": "Shivendra Singh Urf Shiv Baboo",
+      "Trailing Party": "Bharatiya Janta Party",
+      "Margin": 14134,
+      "Status": "Result Declared"
+    },
+    {
+      "Constituency": "Sidhauli",
+      "Const. No.": 61,
+      "Leading Candidate": "Shyam Lal Rawat",
+      "Leading Party": "Samajwadi Party",
+      "Trailing Candidate": "Shiv Pratap Alias Dr. Shiv Pratap Yadav",
+      "Trailing Party": "Samajwadi Party",
+      "Margin": 436,
+      "Status": "Result Declared"
+    },
+    {
+      "Constituency": "Laharpur",
+      "Const. No.": 62,
+      "Leading Candidate": "Anil Kumar Verma",
+      "Leading Party": "Samajwadi Party",
+      "Trailing Candidate": "Shiv Pal Singh Yadav",
+      "Trailing Party": "Samajwadi Party",
+      "Margin": 341,
+      "Status": "Result Declared"
+    },
+    {
+      "Constituency": "Sitapur",
+      "Const. No.": 63,
+      "Leading Candidate": "Radheshyam",
+      "Leading Party": "Samajwadi Party",
+      "Trailing Candidate": "Shiv Kumar Beria",
+      "Trailing Party": "Samajwadi Party",
+      "Margin": 19930,
+      "Status": "Result Declared"
+    },
+    {
+      "Constituency": "Hargaon",
+      "Const. No.": 64,
+      "Leading Candidate": "Ram Het",
+      "Leading Party": "Bahujan Samaj Party",
+      "Trailing Candidate": "Shishu Pal Singh Yadav",
+      "Trailing Party": "Samajwadi Party",
+      "Margin": 51,
+      "Status": "Result Declared"
+    },
+    {
+      "Constituency": "Misrikh",
+      "Const. No.": 65,
+      "Leading Candidate": "Om Prakash",
+      "Leading Party": "Samajwadi Party",
+      "Trailing Candidate": "Sheo Charan",
+      "Trailing Party": "Bahujan Samaj Party",
+      "Margin": 18611,
+      "Status": "Result Declared"
+    },
+    {
+      "Constituency": "Machhrehta",
+      "Const. No.": 66,
+      "Leading Candidate": "Ram Krishana",
+      "Leading Party": "Bahujan Samaj Party",
+      "Trailing Candidate": "Sharda Prasad",
+      "Trailing Party": "Bahujan Samaj Party",
+      "Margin": 23560,
+      "Status": "Result Declared"
+    },
+    {
+      "Constituency": "Beniganj",
+      "Const. No.": 67,
+      "Leading Candidate": "Santu Alias Satya Narain",
+      "Leading Party": "Bahujan Samaj Party",
+      "Trailing Candidate": "Sharadveer Singh",
+      "Trailing Party": "Samajwadi Party",
+      "Margin": 3900,
+      "Status": "Result Declared"
+    },
+    {
+      "Constituency": "Sandila",
+      "Const. No.": 68,
+      "Leading Candidate": "Abdul Mannan",
+      "Leading Party": "Bahujan Samaj Party",
+      "Trailing Candidate": "Sharadadevi",
+      "Trailing Party": "Samajwadi Party",
+      "Margin": 19560,
+      "Status": "Result Declared"
+    },
+    {
+      "Constituency": "Ahirori",
+      "Const. No.": 69,
+      "Leading Candidate": "Usha Verma",
+      "Leading Party": "Samajwadi Party",
+      "Trailing Candidate": "Sharada Nand Anchal",
+      "Trailing Party": "Samajwadi Party",
+      "Margin": 4080,
+      "Status": "Result Declared"
+    },
+    {
+      "Constituency": "Hardoi",
+      "Const. No.": 70,
+      "Leading Candidate": "Naresh Chandra Agrawal",
+      "Leading Party": "Samajwadi Party",
+      "Trailing Candidate": "Shamimul Haq",
+      "Trailing Party": "Indian National Congress",
+      "Margin": 26583,
+      "Status": "Result Declared"
+    },
+    {
+      "Constituency": "Bawan",
+      "Const. No.": 71,
+      "Leading Candidate": "Anil Kumar Verma",
+      "Leading Party": "Bharatiya Janta Party",
+      "Trailing Candidate": "Shakir Ali",
+      "Trailing Party": "Samajwadi Party",
+      "Margin": 10214,
+      "Status": "Result Declared"
+    },
+    {
+      "Constituency": "Pihani",
+      "Const. No.": 72,
+      "Leading Candidate": "Ashok Bajpai",
+      "Leading Party": "Samajwadi Party",
+      "Trailing Candidate": "Shailendra Yadav \"lalai\"",
+      "Trailing Party": "Bahujan Samaj Party",
+      "Margin": 5431,
+      "Status": "Result Declared"
+    },
+    {
+      "Constituency": "Shahabad",
+      "Const. No.": 73,
+      "Leading Candidate": "Ganga Bhakt Singh",
+      "Leading Party": "Bharatiya Janta Party",
+      "Trailing Candidate": "Shahlin Islam",
+      "Trailing Party": "Independent",
+      "Margin": 6350,
+      "Status": "Result Declared"
+    },
+    {
+      "Constituency": "Bilgram",
+      "Const. No.": 74,
+      "Leading Candidate": "Vishram Singh Yadav",
+      "Leading Party": "Samajwadi Party",
+      "Trailing Candidate": "Shahid Manzoor",
+      "Trailing Party": "Samajwadi Party",
+      "Margin": 15148,
+      "Status": "Result Declared"
+    },
+    {
+      "Constituency": "Mallawan",
+      "Const. No.": 75,
+      "Leading Candidate": "Krishana Kumar Singh Alias Satish Verma",
+      "Leading Party": "Bahujan Samaj Party",
+      "Trailing Candidate": "Shachindra Nath Tripathi",
+      "Trailing Party": "Samajwadi Party",
+      "Margin": 130,
+      "Status": "Result Declared"
+    },
+    {
+      "Constituency": "Bangarmau",
+      "Const. No.": 76,
+      "Leading Candidate": "Ramshanker",
+      "Leading Party": "Bahujan Samaj Party",
+      "Trailing Candidate": "Shabbir",
+      "Trailing Party": "Samajwadi Party",
+      "Margin": 5698,
+      "Status": "Result Declared"
+    },
+    {
+      "Constituency": "Safipur",
+      "Const. No.": 77,
+      "Leading Candidate": "Sundar Lal",
+      "Leading Party": "Samajwadi Party",
+      "Trailing Candidate": "Seth Kishan Lal Baghel",
+      "Trailing Party": "Bahujan Samaj Party",
+      "Margin": 9823,
+      "Status": "Result Declared"
+    },
+    {
+      "Constituency": "Unnao",
+      "Const. No.": 78,
+      "Leading Candidate": "Kuldeep Singh",
+      "Leading Party": "Bahujan Samaj Party",
+      "Trailing Candidate": "Satya Prakash Agarwal (kailash Dairy Wale)",
+      "Trailing Party": "Bharatiya Janta Party",
+      "Margin": 3578,
+      "Status": "Result Declared"
+    },
+    {
+      "Constituency": "Hadha",
+      "Const. No.": 79,
+      "Leading Candidate": "Ganga Bux Singh",
+      "Leading Party": "Bharatiya Janta Party",
+      "Trailing Candidate": "Satish Mahana",
+      "Trailing Party": "Bharatiya Janta Party",
+      "Margin": 1802,
+      "Status": "Result Declared"
+    },
+    {
+      "Constituency": "Bhagwantnagar",
+      "Const. No.": 80,
+      "Leading Candidate": "Natthu Singh",
+      "Leading Party": "Bahujan Samaj Party",
+      "Trailing Candidate": "Santu Alias Satya Narain",
+      "Trailing Party": "Bahujan Samaj Party",
+      "Margin": 23477,
+      "Status": "Result Declared"
+    },
+    {
+      "Constituency": "Purwa",
+      "Const. No.": 81,
+      "Leading Candidate": "Udai Raj",
+      "Leading Party": "Samajwadi Party",
+      "Trailing Candidate": "Sankhlal Manjhi",
+      "Trailing Party": "Janata Dal (United)",
+      "Margin": 9917,
+      "Status": "Result Declared"
+    },
+    {
+      "Constituency": "Hasanganj",
+      "Const. No.": 82,
+      "Leading Candidate": "Mast Ram",
+      "Leading Party": "Bharatiya Janta Party",
+      "Trailing Candidate": "Sanjeev Daryawadi",
+      "Trailing Party": "Indian National Congress",
+      "Margin": 2604,
+      "Status": "Result Declared"
+    },
+    {
+      "Constituency": "Malihabad",
+      "Const. No.": 83,
+      "Leading Candidate": "Kaushal Kishore",
+      "Leading Party": "Independent",
+      "Trailing Candidate": "Sanjay Garg",
+      "Trailing Party": "Jharkhand Party",
+      "Margin": 25535,
+      "Status": "Result Declared"
+    },
+    {
+      "Constituency": "Mahona",
+      "Const. No.": 84,
+      "Leading Candidate": "Rajendra Prasad",
+      "Leading Party": "Samajwadi Party",
+      "Trailing Candidate": "Sandhya Katheriya",
+      "Trailing Party": "Samajwadi Party",
+      "Margin": 15330,
+      "Status": "Result Declared"
+    },
+    {
+      "Constituency": "Lucknow East",
+      "Const. No.": 85,
+      "Leading Candidate": "Vidya Sagar Gupta",
+      "Leading Party": "Bharatiya Janta Party",
+      "Trailing Candidate": "Sandeep Agarwal",
+      "Trailing Party": "Bharatiya Janta Party",
+      "Margin": 339,
+      "Status": "Result Declared"
+    },
+    {
+      "Constituency": "Lucknow West",
+      "Const. No.": 86,
+      "Leading Candidate": "Lalji Tandon",
+      "Leading Party": "Bharatiya Janta Party",
+      "Trailing Candidate": "Samar Pal Singh",
+      "Trailing Party": "Rashtriya Lok Dal",
+      "Margin": 14539,
+      "Status": "Result Declared"
+    },
+    {
+      "Constituency": "Lucknow Central",
+      "Const. No.": 87,
+      "Leading Candidate": "Suresh Kumar Srivastava",
+      "Leading Party": "Bharatiya Janta Party",
+      "Trailing Candidate": "Salil Vishnoi",
+      "Trailing Party": "Bharatiya Janta Party",
+      "Margin": 11915,
+      "Status": "Result Declared"
+    },
+    {
+      "Constituency": "Lucknow Cantonment",
+      "Const. No.": 88,
+      "Leading Candidate": "Suresh Chandra Tiwari",
+      "Leading Party": "Bharatiya Janta Party",
+      "Trailing Candidate": "Sadal Prasad",
+      "Trailing Party": "Bahujan Samaj Party",
+      "Margin": 15347,
+      "Status": "Result Declared"
+    },
+    {
+      "Constituency": "Sarojininagar",
+      "Const. No.": 89,
+      "Leading Candidate": "Mohd. Irshad Khan",
+      "Leading Party": "Bahujan Samaj Party",
+      "Trailing Candidate": "Rizwan Ahmed Khan",
+      "Trailing Party": "Bahujan Samaj Party",
+      "Margin": 2592,
+      "Status": "Result Declared"
+    },
+    {
+      "Constituency": "Mohanlalganj",
+      "Const. No.": 90,
+      "Leading Candidate": "R.K.Chowdhary",
+      "Leading Party": "Independent",
+      "Trailing Candidate": "Riaz Ahmad",
+      "Trailing Party": "Samajwadi Party",
+      "Margin": 24668,
+      "Status": "Result Declared"
+    },
+    {
+      "Constituency": "Bachhrawan",
+      "Const. No.": 91,
+      "Leading Candidate": "Ram Lal Akela",
+      "Leading Party": "Samajwadi Party",
+      "Trailing Candidate": "Ratan Lal Ahirwar",
+      "Trailing Party": "Samajwadi Party",
+      "Margin": 29610,
+      "Status": "Result Declared"
+    },
+    {
+      "Constituency": "Tiloi",
+      "Const. No.": 92,
+      "Leading Candidate": "Mayankeshwer Sharan Singh",
+      "Leading Party": "Bharatiya Janta Party",
+      "Trailing Candidate": "Ranveer Rana",
+      "Trailing Party": "Rashtriya Lok Dal",
+      "Margin": 986,
+      "Status": "Result Declared"
+    },
+    {
+      "Constituency": "Rae Bareli",
+      "Const. No.": 93,
+      "Leading Candidate": "Akhilesh Kumar Singh",
+      "Leading Party": "Indian National Congress",
+      "Trailing Candidate": "Ramvir Upadhyay",
+      "Trailing Party": "Bahujan Samaj Party",
+      "Margin": 95837,
+      "Status": "Result Declared"
+    },
+    {
+      "Constituency": "Sataon",
+      "Const. No.": 94,
+      "Leading Candidate": "Surendra Vikram Singh",
+      "Leading Party": "Bahujan Samaj Party",
+      "Trailing Candidate": "Ramvir Singh",
+      "Trailing Party": "Samajwadi Party",
+      "Margin": 7340,
+      "Status": "Result Declared"
+    },
+    {
+      "Constituency": "Sareni",
+      "Const. No.": 95,
+      "Leading Candidate": "Devendra Pratap Singh",
+      "Leading Party": "Samajwadi Party",
+      "Trailing Candidate": "Ramshanker",
+      "Trailing Party": "Bahujan Samaj Party",
+      "Margin": 6244,
+      "Status": "Result Declared"
+    },
+    {
+      "Constituency": "Dalmau",
+      "Const. No.": 96,
+      "Leading Candidate": "Swami Prasad Maurya",
+      "Leading Party": "Bahujan Samaj Party",
+      "Trailing Candidate": "Ramnath",
+      "Trailing Party": "Independent",
+      "Margin": 171,
+      "Status": "Result Declared"
+    },
+    {
+      "Constituency": "Salon",
+      "Const. No.": 97,
+      "Leading Candidate": "Asha Kishor",
+      "Leading Party": "Samajwadi Party",
+      "Trailing Candidate": "Ramjit Rajbhar",
+      "Trailing Party": "Samajwadi Party",
+      "Margin": 4027,
+      "Status": "Result Declared"
+    },
+    {
+      "Constituency": "Kunda",
+      "Const. No.": 98,
+      "Leading Candidate": "Kunwar Raghuraj Pratap Singh Raja Bhaiya",
+      "Leading Party": "Independent",
+      "Trailing Candidate": "Rameshwer Singh Yadav",
+      "Trailing Party": "Samajwadi Party",
+      "Margin": 81678,
+      "Status": "Result Declared"
+    },
+    {
+      "Constituency": "Bihar",
+      "Const. No.": 99,
+      "Leading Candidate": "Ramnath",
+      "Leading Party": "Independent",
+      "Trailing Candidate": "Ramesh Kumar Sharma",
+      "Trailing Party": "Bahujan Samaj Party",
+      "Margin": 69367,
+      "Status": "Result Declared"
+    },
+    {
+      "Constituency": "Rampur Khas",
+      "Const. No.": 100,
+      "Leading Candidate": "Pramod Kumar",
+      "Leading Party": "Indian National Congress",
+      "Trailing Candidate": "Ramesh Kant Lawania",
+      "Trailing Party": "Bharatiya Janta Party",
+      "Margin": 61036,
+      "Status": "Result Declared"
+    },
+    {
+      "Constituency": "Gadwara",
+      "Const. No.": 101,
+      "Leading Candidate": "Raja Ram",
+      "Leading Party": "Lok Jan Shakti Party",
+      "Trailing Candidate": "Ramapati Alies Ramakant",
+      "Trailing Party": "Bharatiya Janta Party",
+      "Margin": 2603,
+      "Status": "Result Declared"
+    },
+    {
+      "Constituency": "Pratapgarh",
+      "Const. No.": 102,
+      "Leading Candidate": "Hari Pratap Singh",
+      "Leading Party": "Bharatiya Janta Party",
+      "Trailing Candidate": "Raman Singh",
+      "Trailing Party": "Samajwadi Party",
+      "Margin": 2471,
+      "Status": "Result Declared"
+    },
+    {
+      "Constituency": "Birapur",
+      "Const. No.": 103,
+      "Leading Candidate": "Prof. Shivkant Ojha",
+      "Leading Party": "Bharatiya Janta Party",
+      "Trailing Candidate": "Ram Swroop Singh",
+      "Trailing Party": "Communist Party Of India (MARXIST)",
+      "Margin": 25284,
+      "Status": "Result Declared"
+    },
+    {
+      "Constituency": "Patti",
+      "Const. No.": 104,
+      "Leading Candidate": "Rajendra Pratap Singh Alias Moti Singh",
+      "Leading Party": "Bharatiya Janta Party",
+      "Trailing Candidate": "Ram Swaroop Singh",
+      "Trailing Party": "Bahujan Samaj Party",
+      "Margin": 20764,
+      "Status": "Result Declared"
+    },
+    {
+      "Constituency": "Amethi",
+      "Const. No.": 105,
+      "Leading Candidate": "Amita Singh",
+      "Leading Party": "Bharatiya Janta Party",
+      "Trailing Candidate": "Ram Sewak",
+      "Trailing Party": "Indian National Congress",
+      "Margin": 18765,
+      "Status": "Result Declared"
+    },
+    {
+      "Constituency": "Gauriganj",
+      "Const. No.": 106,
+      "Leading Candidate": "Noor Mohammad",
+      "Leading Party": "Indian National Congress",
+      "Trailing Candidate": "Ram Pratap Singh",
+      "Trailing Party": "Bharatiya Janta Party",
+      "Margin": 267,
+      "Status": "Result Declared"
+    },
+    {
+      "Constituency": "Jagdishpur",
+      "Const. No.": 107,
+      "Leading Candidate": "Ram Sewak",
+      "Leading Party": "Indian National Congress",
+      "Trailing Candidate": "Ram Prasad Chaudhary",
+      "Trailing Party": "Bharatiya Janta Party",
+      "Margin": 8419,
+      "Status": "Result Declared"
+    },
+    {
+      "Constituency": "Issauli",
+      "Const. No.": 108,
+      "Leading Candidate": "Chandra Bhadra Singh",
+      "Leading Party": "Samajwadi Party",
+      "Trailing Candidate": "Ram Prakash Tripathi",
+      "Trailing Party": "Bharatiya Janta Party",
+      "Margin": 25561,
+      "Status": "Result Declared"
+    },
+    {
+      "Constituency": "Sultanpur",
+      "Const. No.": 109,
+      "Leading Candidate": "Om Prakash Pandey",
+      "Leading Party": "Bharatiya Janta Party",
+      "Trailing Candidate": "Ram Pal Yadav",
+      "Trailing Party": "Samajwadi Party",
+      "Margin": 5186,
+      "Status": "Result Declared"
+    },
+    {
+      "Constituency": "Jaisinghpur",
+      "Const. No.": 110,
+      "Leading Candidate": "Om Prakash ( O.P. Singh )",
+      "Leading Party": "Bahujan Samaj Party",
+      "Trailing Candidate": "Ram Naresh Yadav",
+      "Trailing Party": "Indian National Congress",
+      "Margin": 6765,
+      "Status": "Result Declared"
+    },
+    {
+      "Constituency": "Chanda",
+      "Const. No.": 111,
+      "Leading Candidate": "Anil Kumar Pandey",
+      "Leading Party": "Samajwadi Party",
+      "Trailing Candidate": "Ram Lal Akela",
+      "Trailing Party": "Samajwadi Party",
+      "Margin": 1447,
+      "Status": "Result Declared"
+    },
+    {
+      "Constituency": "Kadipur",
+      "Const. No.": 112,
+      "Leading Candidate": "Bhagelu Ram",
+      "Leading Party": "Bahujan Samaj Party",
+      "Trailing Candidate": "Ram Krishana",
+      "Trailing Party": "Bahujan Samaj Party",
+      "Margin": 6457,
+      "Status": "Result Declared"
+    },
+    {
+      "Constituency": "Katehari",
+      "Const. No.": 113,
+      "Leading Candidate": "Dharam Raj Nishad",
+      "Leading Party": "Bahujan Samaj Party",
+      "Trailing Candidate": "Ram Kripal",
+      "Trailing Party": "Communist Party Of India (MARXIST)",
+      "Margin": 4121,
+      "Status": "Result Declared"
+    },
+    {
+      "Constituency": "Akbarpur",
+      "Const. No.": 114,
+      "Leading Candidate": "Ram Achal Rajbhar",
+      "Leading Party": "Bahujan Samaj Party",
+      "Trailing Candidate": "Ram Kishun",
+      "Trailing Party": "Samajwadi Party",
+      "Margin": 7540,
+      "Status": "Result Declared"
+    },
+    {
+      "Constituency": "Jalalpur",
+      "Const. No.": 115,
+      "Leading Candidate": "Rakesh Pandey",
+      "Leading Party": "Samajwadi Party",
+      "Trailing Candidate": "Ram Karan Arya",
+      "Trailing Party": "Samajwadi Party",
+      "Margin": 5051,
+      "Status": "Result Declared"
+    },
+    {
+      "Constituency": "Jahangirganj",
+      "Const. No.": 116,
+      "Leading Candidate": "Mayawati",
+      "Leading Party": "Bahujan Samaj Party",
+      "Trailing Candidate": "Ram Ji Shukla",
+      "Trailing Party": "Bahujan Samaj Party",
+      "Margin": 6407,
+      "Status": "Result Declared"
+    },
+    {
+      "Constituency": "Tanda",
+      "Const. No.": 117,
+      "Leading Candidate": "Laljee Verma",
+      "Leading Party": "Bahujan Samaj Party",
+      "Trailing Candidate": "Ram Ikabal",
+      "Trailing Party": "Bharatiya Janta Party",
+      "Margin": 10489,
+      "Status": "Result Declared"
+    },
+    {
+      "Constituency": "Ayodhya",
+      "Const. No.": 118,
+      "Leading Candidate": "Lalloo Singh",
+      "Leading Party": "Bharatiya Janta Party",
+      "Trailing Candidate": "Ram Het",
+      "Trailing Party": "Bahujan Samaj Party",
+      "Margin": 17860,
+      "Status": "Result Declared"
+    },
+    {
+      "Constituency": "Bikapur",
+      "Const. No.": 119,
+      "Leading Candidate": "Sita Ram Nishad",
+      "Leading Party": "Samajwadi Party",
+      "Trailing Candidate": "Ram Govind Chowdhari",
+      "Trailing Party": "Samajwadi Janata Party (RASHTRIYA)",
+      "Margin": 6923,
+      "Status": "Result Declared"
+    },
+    {
+      "Constituency": "Milkipur",
+      "Const. No.": 120,
+      "Leading Candidate": "Anand Sen",
+      "Leading Party": "Samajwadi Party",
+      "Trailing Candidate": "Ram Bishun Azad",
+      "Trailing Party": "Samajwadi Party",
+      "Margin": 3086,
+      "Status": "Result Declared"
+    },
+    {
+      "Constituency": "Sohawal",
+      "Const. No.": 121,
+      "Leading Candidate": "Awadhesh Prasad",
+      "Leading Party": "Samajwadi Party",
+      "Trailing Candidate": "Ram Bhuwal",
+      "Trailing Party": "Bahujan Samaj Party",
+      "Margin": 8156,
+      "Status": "Result Declared"
+    },
+    {
+      "Constituency": "Rudauli",
+      "Const. No.": 122,
+      "Leading Candidate": "Abbas Ali Zaidi Urf Rushdi Miyan",
+      "Leading Party": "Samajwadi Party",
+      "Trailing Candidate": "Ram Achal Rajbhar",
+      "Trailing Party": "Bahujan Samaj Party",
+      "Margin": 20982,
+      "Status": "Result Declared"
+    },
+    {
+      "Constituency": "Dariyabad",
+      "Const. No.": 123,
+      "Leading Candidate": "Rajeev Kumar Singh",
+      "Leading Party": "Bharatiya Janta Party",
+      "Trailing Candidate": "Rakesh Sachan",
+      "Trailing Party": "Samajwadi Party",
+      "Margin": 7329,
+      "Status": "Result Declared"
+    },
+    {
+      "Constituency": "Siddhaur",
+      "Const. No.": 124,
+      "Leading Candidate": "Kamla Prasad Rawat",
+      "Leading Party": "Bahujan Samaj Party",
+      "Trailing Candidate": "Rakesh Pandey",
+      "Trailing Party": "Samajwadi Party",
+      "Margin": 6019,
+      "Status": "Result Declared"
+    },
+    {
+      "Constituency": "Haidergarh",
+      "Const. No.": 125,
+      "Leading Candidate": "Raj Nath Singh",
+      "Leading Party": "Bharatiya Janta Party",
+      "Trailing Candidate": "Rakesh Kumar Verma",
+      "Trailing Party": "Samajwadi Party",
+      "Margin": 25636,
+      "Status": "Result Declared"
+    },
+    {
+      "Constituency": "Masauli",
+      "Const. No.": 126,
+      "Leading Candidate": "Rakesh Kumar Verma",
+      "Leading Party": "Samajwadi Party",
+      "Trailing Candidate": "Rajpal Tyagi",
+      "Trailing Party": "Indian National Congress",
+      "Margin": 4397,
+      "Status": "Result Declared"
+    },
+    {
+      "Constituency": "Nawabganj",
+      "Const. No.": 127,
+      "Leading Candidate": "Chhote Lal",
+      "Leading Party": "Samajwadi Party",
+      "Trailing Candidate": "Rajpal Singh Saini",
+      "Trailing Party": "Bahujan Samaj Party",
+      "Margin": 27,
+      "Status": "Result Declared"
+    },
+    {
+      "Constituency": "Fatehpur",
+      "Const. No.": 128,
+      "Leading Candidate": "Raj Rani",
+      "Leading Party": "Bharatiya Janta Party",
+      "Trailing Candidate": "Rajpal Singh Baliyan",
+      "Trailing Party": "Rashtriya Lok Dal",
+      "Margin": 13016,
+      "Status": "Result Declared"
+    },
+    {
+      "Constituency": "Ramnagar",
+      "Const. No.": 129,
+      "Leading Candidate": "Raj Laxmi Verma",
+      "Leading Party": "Bharatiya Janta Party",
+      "Trailing Candidate": "Rajesh Kumar",
+      "Trailing Party": "Bahujan Samaj Party",
+      "Margin": 11087,
+      "Status": "Result Declared"
+    },
+    {
+      "Constituency": "Kaiserganj",
+      "Const. No.": 130,
+      "Leading Candidate": "Mukut Bihari Verma",
+      "Leading Party": "Bharatiya Janta Party",
+      "Trailing Candidate": "Rajesh Agrawal",
+      "Trailing Party": "Bharatiya Janta Party",
+      "Margin": 3714,
+      "Status": "Result Declared"
+    },
+    {
+      "Constituency": "Fakharpur",
+      "Const. No.": 131,
+      "Leading Candidate": "Arun Veer Singh",
+      "Leading Party": "Samajwadi Party",
+      "Trailing Candidate": "Rajendra Singh Rana",
+      "Trailing Party": "Bahujan Samaj Party",
+      "Margin": 1338,
+      "Status": "Result Declared"
+    },
+    {
+      "Constituency": "Mahsi",
+      "Const. No.": 132,
+      "Leading Candidate": "Ali Bahadur",
+      "Leading Party": "Bahujan Samaj Party",
+      "Trailing Candidate": "Rajendra Singh Chauhan",
+      "Trailing Party": "Bahujan Samaj Party",
+      "Margin": 7200,
+      "Status": "Result Declared"
+    },
+    {
+      "Constituency": "Nanpara",
+      "Const. No.": 133,
+      "Leading Candidate": "Jata Shankar Singh",
+      "Leading Party": "Bharatiya Janta Party",
+      "Trailing Candidate": "Rajendra Pratap Singh Alias Moti Singh",
+      "Trailing Party": "Bharatiya Janta Party",
+      "Margin": 1755,
+      "Status": "Result Declared"
+    },
+    {
+      "Constituency": "Charda",
+      "Const. No.": 134,
+      "Leading Candidate": "Shabbir",
+      "Leading Party": "Samajwadi Party",
+      "Trailing Candidate": "Rajendra Prasad",
+      "Trailing Party": "Samajwadi Party",
+      "Margin": 15490,
+      "Status": "Result Declared"
+    },
+    {
+      "Constituency": "Bhinga",
+      "Const. No.": 135,
+      "Leading Candidate": "Chandramani Kant Singh",
+      "Leading Party": "Bharatiya Janta Party",
+      "Trailing Candidate": "Rajeev Kumar Singh",
+      "Trailing Party": "Bharatiya Janta Party",
+      "Margin": 1985,
+      "Status": "Result Declared"
+    },
+    {
+      "Constituency": "Bahraich",
+      "Const. No.": 136,
+      "Leading Candidate": "Dr Vaqar Ahmad Shah",
+      "Leading Party": "Samajwadi Party",
+      "Trailing Candidate": "Raja Ram",
+      "Trailing Party": "Lok Jan Shakti Party",
+      "Margin": 14095,
+      "Status": "Result Declared"
+    },
+    {
+      "Constituency": "Ikauna",
+      "Const. No.": 137,
+      "Leading Candidate": "Akshaiber Lal",
+      "Leading Party": "Bharatiya Janta Party",
+      "Trailing Candidate": "Raja Mahendra Aridaman Singh",
+      "Trailing Party": "Bharatiya Janta Party",
+      "Margin": 7636,
+      "Status": "Result Declared"
+    },
+    {
+      "Constituency": "Gainsari",
+      "Const. No.": 138,
+      "Leading Candidate": "Shiv Pratap Alias Dr. Shiv Pratap Yadav",
+      "Leading Party": "Samajwadi Party",
+      "Trailing Candidate": "Raj Rani",
+      "Trailing Party": "Bharatiya Janta Party",
+      "Margin": 11695,
+      "Status": "Result Declared"
+    },
+    {
+      "Constituency": "Tulsipur",
+      "Const. No.": 139,
+      "Leading Candidate": "Mashood Khan",
+      "Leading Party": "Samajwadi Party",
+      "Trailing Candidate": "Raj Nath Singh",
+      "Trailing Party": "Bharatiya Janta Party",
+      "Margin": 2396,
+      "Status": "Result Declared"
+    },
+    {
+      "Constituency": "Balrampur",
+      "Const. No.": 140,
+      "Leading Candidate": "Geeta Singh",
+      "Leading Party": "Samajwadi Party",
+      "Trailing Candidate": "Raj Laxmi Verma",
+      "Trailing Party": "Bharatiya Janta Party",
+      "Margin": 2226,
+      "Status": "Result Declared"
+    },
+    {
+      "Constituency": "Utraula",
+      "Const. No.": 141,
+      "Leading Candidate": "Anwar Mahmood",
+      "Leading Party": "Samajwadi Party",
+      "Trailing Candidate": "Raj Kishor Singh",
+      "Trailing Party": "Bahujan Samaj Party",
+      "Margin": 1131,
+      "Status": "Result Declared"
+    },
+    {
+      "Constituency": "Sadullanagar",
+      "Const. No.": 142,
+      "Leading Candidate": "Ram Pratap Singh",
+      "Leading Party": "Bharatiya Janta Party",
+      "Trailing Candidate": "Radhey Shyam Singh",
+      "Trailing Party": "Samajwadi Party",
+      "Margin": 8183,
+      "Status": "Result Declared"
+    },
+    {
+      "Constituency": "Mankapur",
+      "Const. No.": 143,
+      "Leading Candidate": "Ram Bishun Azad",
+      "Leading Party": "Samajwadi Party",
+      "Trailing Candidate": "Radheshyam",
+      "Trailing Party": "Samajwadi Party",
+      "Margin": 22406,
+      "Status": "Result Declared"
+    },
+    {
+      "Constituency": "Mujehna",
+      "Const. No.": 144,
+      "Leading Candidate": "Ghanshyam Shukla",
+      "Leading Party": "Bharatiya Janta Party",
+      "Trailing Candidate": "R.S. Kushwaha",
+      "Trailing Party": "Bahujan Samaj Party",
+      "Margin": 22756,
+      "Status": "Result Declared"
+    },
+    {
+      "Constituency": "Gonda",
+      "Const. No.": 145,
+      "Leading Candidate": "Vinod Kumar Alias Pandit Singh",
+      "Leading Party": "Samajwadi Party",
+      "Trailing Candidate": "R.K.Chowdhary",
+      "Trailing Party": "Independent",
+      "Margin": 12511,
+      "Status": "Result Declared"
+    },
+    {
+      "Constituency": "Katra Bazar",
+      "Const. No.": 146,
+      "Leading Candidate": "Baij Nath Dubey",
+      "Leading Party": "Samajwadi Party",
+      "Trailing Candidate": "R.K. Singh Patel",
+      "Trailing Party": "Bahujan Samaj Party",
+      "Margin": 2462,
+      "Status": "Result Declared"
+    },
+    {
+      "Constituency": "Colonelganj",
+      "Const. No.": 147,
+      "Leading Candidate": "Yogesh Pratap Singh Alias Yogesh Bhaiya",
+      "Leading Party": "Bahujan Samaj Party",
+      "Trailing Candidate": "Qutubudeen",
+      "Trailing Party": "Bahujan Samaj Party",
+      "Margin": 4167,
+      "Status": "Result Declared"
+    },
+    {
+      "Constituency": "Dixir",
+      "Const. No.": 148,
+      "Leading Candidate": "Babu Lal",
+      "Leading Party": "Samajwadi Party",
+      "Trailing Candidate": "Purnmasi Dehati",
+      "Trailing Party": "Samajwadi Party",
+      "Margin": 6640,
+      "Status": "Result Declared"
+    },
+    {
+      "Constituency": "Harraiya",
+      "Const. No.": 149,
+      "Leading Candidate": "Raj Kishor Singh",
+      "Leading Party": "Bahujan Samaj Party",
+      "Trailing Candidate": "Prof. Shivkant Ojha",
+      "Trailing Party": "Bharatiya Janta Party",
+      "Margin": 1426,
+      "Status": "Result Declared"
+    },
+    {
+      "Constituency": "Captainganj",
+      "Const. No.": 150,
+      "Leading Candidate": "Ram Prasad Chaudhary",
+      "Leading Party": "Bharatiya Janta Party",
+      "Trailing Candidate": "Prof. Ravindra Pundir",
+      "Trailing Party": "Bharatiya Janta Party",
+      "Margin": 4029,
+      "Status": "Result Declared"
+    },
+    {
+      "Constituency": "Nagar East",
+      "Const. No.": 151,
+      "Leading Candidate": "Ram Karan Arya",
+      "Leading Party": "Samajwadi Party",
+      "Trailing Candidate": "Prem Singh",
+      "Trailing Party": "Rashtriya Lok Dal",
+      "Margin": 6101,
+      "Status": "Result Declared"
+    },
+    {
+      "Constituency": "Basti",
+      "Const. No.": 152,
+      "Leading Candidate": "Jagadambika Pal",
+      "Leading Party": "Indian National Congress",
+      "Trailing Candidate": "Prem Pal Singh Yadav",
+      "Trailing Party": "Samajwadi Party",
+      "Margin": 9515,
+      "Status": "Result Declared"
+    },
+    {
+      "Constituency": "Ramnagar",
+      "Const. No.": 153,
+      "Leading Candidate": "Anoop Kumar Pandey",
+      "Leading Party": "Samajwadi Party",
+      "Trailing Candidate": "Prem Lata Katiyar",
+      "Trailing Party": "Bharatiya Janta Party",
+      "Margin": 14274,
+      "Status": "Result Declared"
+    },
+    {
+      "Constituency": "Domariaganj",
+      "Const. No.": 154,
+      "Leading Candidate": "Kamal Yusuf Malik",
+      "Leading Party": "Samajwadi Party",
+      "Trailing Candidate": "Pratap",
+      "Trailing Party": "Rashtriya Lok Dal",
+      "Margin": 7623,
+      "Status": "Result Declared"
+    },
+    {
+      "Constituency": "Itwa",
+      "Const. No.": 155,
+      "Leading Candidate": "Mata Prasad Pandey",
+      "Leading Party": "Samajwadi Party",
+      "Trailing Candidate": "Pramod Kumar",
+      "Trailing Party": "Indian National Congress",
+      "Margin": 10101,
+      "Status": "Result Declared"
+    },
+    {
+      "Constituency": "Shohratgarh",
+      "Const. No.": 156,
+      "Leading Candidate": "Dinesh Singh",
+      "Leading Party": "Indian National Congress",
+      "Trailing Candidate": "Pramod Gaur",
+      "Trailing Party": "Bahujan Samaj Party",
+      "Margin": 5586,
+      "Status": "Result Declared"
+    },
+    {
+      "Constituency": "Naugarh",
+      "Const. No.": 157,
+      "Leading Candidate": "Aneel",
+      "Leading Party": "Samajwadi Party",
+      "Trailing Candidate": "Pragilal Ahirwar",
+      "Trailing Party": "Bharatiya Janta Party",
+      "Margin": 10271,
+      "Status": "Result Declared"
+    },
+    {
+      "Constituency": "Bansi",
+      "Const. No.": 158,
+      "Leading Candidate": "Jai Pratap Singh",
+      "Leading Party": "Bharatiya Janta Party",
+      "Trailing Candidate": "Pradeep Mathur",
+      "Trailing Party": "Indian National Congress",
+      "Margin": 2453,
+      "Status": "Result Declared"
+    },
+    {
+      "Constituency": "Khesraha",
+      "Const. No.": 159,
+      "Leading Candidate": "Aditya Vikram Singh (Bonku Singh)",
+      "Leading Party": "Samajwadi Party",
+      "Trailing Candidate": "Prabhu Narayan",
+      "Trailing Party": "Samajwadi Party",
+      "Margin": 12877,
+      "Status": "Result Declared"
+    },
+    {
+      "Constituency": "Menhdawal",
+      "Const. No.": 160,
+      "Leading Candidate": "Abdul Kalam",
+      "Leading Party": "Samajwadi Party",
+      "Trailing Candidate": "Prabhu Dayal",
+      "Trailing Party": "Samajwadi Party",
+      "Margin": 11057,
+      "Status": "Result Declared"
+    },
+    {
+      "Constituency": "Khalilabad",
+      "Const. No.": 161,
+      "Leading Candidate": "Dawarika Prasad",
+      "Leading Party": "Bharatiya Janta Party",
+      "Trailing Candidate": "Pooran Singh Bundela",
+      "Trailing Party": "Bharatiya Janta Party",
+      "Margin": 4293,
+      "Status": "Result Declared"
+    },
+    {
+      "Constituency": "Hainsarbazar",
+      "Const. No.": 162,
+      "Leading Candidate": "Sankhlal Manjhi",
+      "Leading Party": "Janata Dal (United)",
+      "Trailing Candidate": "Peetam Ram",
+      "Trailing Party": "Samajwadi Party",
+      "Margin": 4190,
+      "Status": "Result Declared"
+    },
+    {
+      "Constituency": "Bansgaon",
+      "Const. No.": 163,
+      "Leading Candidate": "Sadal Prasad",
+      "Leading Party": "Bahujan Samaj Party",
+      "Trailing Candidate": "Parmeshwar",
+      "Trailing Party": "Samajwadi Party",
+      "Margin": 21739,
+      "Status": "Result Declared"
+    },
+    {
+      "Constituency": "Dhuriapar",
+      "Const. No.": 164,
+      "Leading Candidate": "Jaiprakash Yadva",
+      "Leading Party": "Bahujan Samaj Party",
+      "Trailing Candidate": "Paras Nath Yadav",
+      "Trailing Party": "Samajwadi Party",
+      "Margin": 11657,
+      "Status": "Result Declared"
+    },
+    {
+      "Constituency": "Chillupar",
+      "Const. No.": 165,
+      "Leading Candidate": "Harishanker Tewari",
+      "Leading Party": "Akhil Bhartiya Lok Tantrik Congress",
+      "Trailing Candidate": "Pakauri Lal",
+      "Trailing Party": "Bahujan Samaj Party",
+      "Margin": 14951,
+      "Status": "Result Declared"
+    },
+    {
+      "Constituency": "Kauriram",
+      "Const. No.": 166,
+      "Leading Candidate": "Ram Bhuwal",
+      "Leading Party": "Bahujan Samaj Party",
+      "Trailing Candidate": "Omvati Devi",
+      "Trailing Party": "Samajwadi Party",
+      "Margin": 569,
+      "Status": "Result Declared"
+    },
+    {
+      "Constituency": "Mundera Bazar",
+      "Const. No.": 167,
+      "Leading Candidate": "Sharadadevi",
+      "Leading Party": "Samajwadi Party",
+      "Trailing Candidate": "Omkar Singh Yadav",
+      "Trailing Party": "Samajwadi Party",
+      "Margin": 3339,
+      "Status": "Result Declared"
+    },
+    {
+      "Constituency": "Pipraich",
+      "Const. No.": 168,
+      "Leading Candidate": "Jitendra Kumar Jaiswal Urf Pappu Bhaiya",
+      "Leading Party": "Independent",
+      "Trailing Candidate": "Om Prakash Singh",
+      "Trailing Party": "Bharatiya Janta Party",
+      "Margin": 22235,
+      "Status": "Result Declared"
+    },
+    {
+      "Constituency": "Gorakhpur",
+      "Const. No.": 169,
+      "Leading Candidate": "Dr.Radha Mohan Das Agrawal",
+      "Leading Party": "Akhil Bharat Hindu Mahasabha",
+      "Trailing Candidate": "Om Prakash Pandey",
+      "Trailing Party": "Bharatiya Janta Party",
+      "Margin": 18448,
+      "Status": "Result Declared"
+    },
+    {
+      "Constituency": "Maniram",
+      "Const. No.": 170,
+      "Leading Candidate": "Kamlesh Kumar",
+      "Leading Party": "Samajwadi Party",
+      "Trailing Candidate": "Om Prakash ( O.P. Singh )",
+      "Trailing Party": "Bahujan Samaj Party",
+      "Margin": 18056,
+      "Status": "Result Declared"
+    },
+    {
+      "Constituency": "Sahjanwa",
+      "Const. No.": 171,
+      "Leading Candidate": "Dev Narayan Alis G.M. Singh",
+      "Leading Party": "Bahujan Samaj Party",
+      "Trailing Candidate": "Om Prakash",
+      "Trailing Party": "Samajwadi Party",
+      "Margin": 13870,
+      "Status": "Result Declared"
+    },
+    {
+      "Constituency": "Paniara",
+      "Const. No.": 172,
+      "Leading Candidate": "Fateh Bahadur",
+      "Leading Party": "Bharatiya Janta Party",
+      "Trailing Candidate": "Om Prakash",
+      "Trailing Party": "Samajwadi Party",
+      "Margin": 2171,
+      "Status": "Result Declared"
+    },
+    {
+      "Constituency": "Pharenda",
+      "Const. No.": 173,
+      "Leading Candidate": "Shyam Narain",
+      "Leading Party": "Indian National Congress",
+      "Trailing Candidate": "Noor Mohammad",
+      "Trailing Party": "Indian National Congress",
+      "Margin": 5873,
+      "Status": "Result Declared"
+    },
+    {
+      "Constituency": "Lakshmipur",
+      "Const. No.": 174,
+      "Leading Candidate": "Amar Mani",
+      "Leading Party": "Bahujan Samaj Party",
+      "Trailing Candidate": "Nawab Singh Nagar",
+      "Trailing Party": "Bharatiya Janta Party",
+      "Margin": 6000,
+      "Status": "Result Declared"
+    },
+    {
+      "Constituency": "Siswa",
+      "Const. No.": 175,
+      "Leading Candidate": "Shivendra Singh Urf Shiv Baboo",
+      "Leading Party": "Bharatiya Janta Party",
+      "Trailing Candidate": "Nawab Kazim Ali Khan Alias Naved Mian",
+      "Trailing Party": "Indian National Congress",
+      "Margin": 7628,
+      "Status": "Result Declared"
+    },
+    {
+      "Constituency": "Maharajganj",
+      "Const. No.": 176,
+      "Leading Candidate": "Chandra Kishor",
+      "Leading Party": "Bharatiya Janta Party",
+      "Trailing Candidate": "Natthu Singh",
+      "Trailing Party": "Bahujan Samaj Party",
+      "Margin": 8515,
+      "Status": "Result Declared"
+    },
+    {
+      "Constituency": "Shyam Duerwa",
+      "Const. No.": 177,
+      "Leading Candidate": "Gyanendra Singh",
+      "Leading Party": "Bharatiya Janta Party",
+      "Trailing Candidate": "Naresh Chandra Agrawal",
+      "Trailing Party": "Samajwadi Party",
+      "Margin": 1719,
+      "Status": "Result Declared"
+    },
+    {
+      "Constituency": "Naurangia",
+      "Const. No.": 178,
+      "Leading Candidate": "Purnmasi Dehati",
+      "Leading Party": "Samajwadi Party",
+      "Trailing Candidate": "Narendra Singh Yadav",
+      "Trailing Party": "Samajwadi Party",
+      "Margin": 2800,
+      "Status": "Result Declared"
+    },
+    {
+      "Constituency": "Ramkola",
+      "Const. No.": 179,
+      "Leading Candidate": "Radhey Shyam Singh",
+      "Leading Party": "Samajwadi Party",
+      "Trailing Candidate": "Narendra Singh Sisodiya",
+      "Trailing Party": "Bharatiya Janta Party",
+      "Margin": 22355,
+      "Status": "Result Declared"
+    },
+    {
+      "Constituency": "Hata",
+      "Const. No.": 180,
+      "Leading Candidate": "Ramapati Alies Ramakant",
+      "Leading Party": "Bharatiya Janta Party",
+      "Trailing Candidate": "Narendra Singh",
+      "Trailing Party": "Bharatiya Janta Party",
+      "Margin": 18302,
+      "Status": "Result Declared"
+    },
+    {
+      "Constituency": "Padrauna",
+      "Const. No.": 181,
+      "Leading Candidate": "Kr. Ratan Jeet Pratap Narayan Singh",
+      "Leading Party": "Indian National Congress",
+      "Trailing Candidate": "Narendra Kumar",
+      "Trailing Party": "Bahujan Samaj Party",
+      "Margin": 15382,
+      "Status": "Result Declared"
+    },
+    {
+      "Constituency": "Seorahi",
+      "Const. No.": 182,
+      "Leading Candidate": "Dr. P.K. Rai",
+      "Leading Party": "Samajwadi Party",
+      "Trailing Candidate": "Narad Rai",
+      "Trailing Party": "Samajwadi Party",
+      "Margin": 465,
+      "Status": "Result Declared"
+    },
+    {
+      "Constituency": "Fazilnagar",
+      "Const. No.": 183,
+      "Leading Candidate": "Jagdish Misra Balti Baba",
+      "Leading Party": "Bharatiya Janta Party",
+      "Trailing Candidate": "Munshi Lal Gautam",
+      "Trailing Party": "Bharatiya Janta Party",
+      "Margin": 1874,
+      "Status": "Result Declared"
+    },
+    {
+      "Constituency": "Kasia",
+      "Const. No.": 184,
+      "Leading Candidate": "Brahma Shanker Tripathi",
+      "Leading Party": "Samajwadi Party",
+      "Trailing Candidate": "Mukut Bihari Verma",
+      "Trailing Party": "Bharatiya Janta Party",
+      "Margin": 24885,
+      "Status": "Result Declared"
+    },
+    {
+      "Constituency": "Gauri Bazar",
+      "Const. No.": 185,
+      "Leading Candidate": "Shakir Ali",
+      "Leading Party": "Samajwadi Party",
+      "Trailing Candidate": "Mool Chand",
+      "Trailing Party": "Samajwadi Party",
+      "Margin": 6126,
+      "Status": "Result Declared"
+    },
+    {
+      "Constituency": "Rudrapur",
+      "Const. No.": 186,
+      "Leading Candidate": "Anugrah Narain Alias Khokha Singh",
+      "Leading Party": "Samajwadi Party",
+      "Trailing Candidate": "Mokhtar Ansari",
+      "Trailing Party": "Independent",
+      "Margin": 13678,
+      "Status": "Result Declared"
+    },
+    {
+      "Constituency": "Deoria",
+      "Const. No.": 187,
+      "Leading Candidate": "Dinanath Kushwaha",
+      "Leading Party": "National Loktantrik Party",
+      "Trailing Candidate": "Mohd. Shafir",
+      "Trailing Party": "Bahujan Samaj Party",
+      "Margin": 1904,
+      "Status": "Result Declared"
+    },
+    {
+      "Constituency": "Bhatpar Rani",
+      "Const. No.": 188,
+      "Leading Candidate": "Kameshwar",
+      "Leading Party": "Indian National Congress",
+      "Trailing Candidate": "Mohd. Rizwan",
+      "Trailing Party": "Samajwadi Party",
+      "Margin": 16398,
+      "Status": "Result Declared"
+    },
+    {
+      "Constituency": "Salempur",
+      "Const. No.": 189,
+      "Leading Candidate": "Fasiha Murad Lari Alias Gajala",
+      "Leading Party": "Bahujan Samaj Party",
+      "Trailing Candidate": "Mohd. Irshad Khan",
+      "Trailing Party": "Bahujan Samaj Party",
+      "Margin": 4034,
+      "Status": "Result Declared"
+    },
+    {
+      "Constituency": "Barhaj",
+      "Const. No.": 190,
+      "Leading Candidate": "Durga Prasad Misra",
+      "Leading Party": "Independent",
+      "Trailing Candidate": "Mohd. Azam Khan",
+      "Trailing Party": "Samajwadi Party",
+      "Margin": 3244,
+      "Status": "Result Declared"
+    },
+    {
+      "Constituency": "Natthupur",
+      "Const. No.": 191,
+      "Leading Candidate": "Kapildeo",
+      "Leading Party": "Bahujan Samaj Party",
+      "Trailing Candidate": "Mohd. Aaqil Urf Munna Miyan",
+      "Trailing Party": "Bahujan Samaj Party",
+      "Margin": 2858,
+      "Status": "Result Declared"
+    },
+    {
+      "Constituency": "Ghosi",
+      "Const. No.": 192,
+      "Leading Candidate": "Fagoo",
+      "Leading Party": "Bharatiya Janta Party",
+      "Trailing Candidate": "Mohd Mujtaba Siddiqui",
+      "Trailing Party": "Bahujan Samaj Party",
+      "Margin": 7686,
+      "Status": "Result Declared"
+    },
+    {
+      "Constituency": "Sagri",
+      "Const. No.": 193,
+      "Leading Candidate": "Malik Masood",
+      "Leading Party": "Bahujan Samaj Party",
+      "Trailing Candidate": "Mohan Dev Shankhvar",
+      "Trailing Party": "Samajwadi Party",
+      "Margin": 640,
+      "Status": "Result Declared"
+    },
+    {
+      "Constituency": "Gopalpur",
+      "Const. No.": 194,
+      "Leading Candidate": "Waseem Ahmad",
+      "Leading Party": "Samajwadi Party",
+      "Trailing Candidate": "Mohammad Basheer",
+      "Trailing Party": "Bahujan Samaj Party",
+      "Margin": 5753,
+      "Status": "Result Declared"
+    },
+    {
+      "Constituency": "Azamgarh",
+      "Const. No.": 195,
+      "Leading Candidate": "Durga Prasad Yadav",
+      "Leading Party": "Samajwadi Party",
+      "Trailing Candidate": "Mithlesh Kumar",
+      "Trailing Party": "Independent",
+      "Margin": 18166,
+      "Status": "Result Declared"
+    },
+    {
+      "Constituency": "Nizamabad",
+      "Const. No.": 196,
+      "Leading Candidate": "Alambadi",
+      "Leading Party": "Samajwadi Party",
+      "Trailing Candidate": "Mehboob Ali",
+      "Trailing Party": "Rashtriya Parivartan Dal",
+      "Margin": 4956,
+      "Status": "Result Declared"
+    },
+    {
+      "Constituency": "Atraulia",
+      "Const. No.": 197,
+      "Leading Candidate": "Balram Yadav",
+      "Leading Party": "Samajwadi Party",
+      "Trailing Candidate": "Mayawati",
+      "Trailing Party": "Bahujan Samaj Party",
+      "Margin": 22056,
+      "Status": "Result Declared"
+    },
+    {
+      "Constituency": "Phulpur",
+      "Const. No.": 198,
+      "Leading Candidate": "Ram Naresh Yadav",
+      "Leading Party": "Indian National Congress",
+      "Trailing Candidate": "Mayawati",
+      "Trailing Party": "Bahujan Samaj Party",
+      "Margin": 3828,
+      "Status": "Result Declared"
+    },
+    {
+      "Constituency": "Saraimir",
+      "Const. No.": 199,
+      "Leading Candidate": "Hira Lal Gautam",
+      "Leading Party": "Bahujan Samaj Party",
+      "Trailing Candidate": "Mayavati",
+      "Trailing Party": "Bahujan Samaj Party",
+      "Margin": 7387,
+      "Status": "Result Declared"
+    },
+    {
+      "Constituency": "Mehnagar",
+      "Const. No.": 200,
+      "Leading Candidate": "Vidya Chaudhary",
+      "Leading Party": "Bahujan Samaj Party",
+      "Trailing Candidate": "Mayankeshwer Sharan Singh",
+      "Trailing Party": "Bharatiya Janta Party",
+      "Margin": 332,
+      "Status": "Result Declared"
+    },
+    {
+      "Constituency": "Lalganj",
+      "Const. No.": 201,
+      "Leading Candidate": "Sukhdev Rajbhar",
+      "Leading Party": "Bahujan Samaj Party",
+      "Trailing Candidate": "Matesh Chandra Sonkar",
+      "Trailing Party": "Bahujan Samaj Party",
+      "Margin": 1748,
+      "Status": "Result Declared"
+    },
+    {
+      "Constituency": "Mubarakpur",
+      "Const. No.": 202,
+      "Leading Candidate": "Chandradeo Ram Yadav Karailee",
+      "Leading Party": "Bahujan Samaj Party",
+      "Trailing Candidate": "Mata Prasad Pandey",
+      "Trailing Party": "Samajwadi Party",
+      "Margin": 9276,
+      "Status": "Result Declared"
+    },
+    {
+      "Constituency": "Mohammadabad Gohna",
+      "Const. No.": 203,
+      "Leading Candidate": "Baijnath",
+      "Leading Party": "Samajwadi Party",
+      "Trailing Candidate": "Mast Ram",
+      "Trailing Party": "Bharatiya Janta Party",
+      "Margin": 929,
+      "Status": "Result Declared"
+    },
+    {
+      "Constituency": "Mau",
+      "Const. No.": 204,
+      "Leading Candidate": "Mokhtar Ansari",
+      "Leading Party": "Independent",
+      "Trailing Candidate": "Mashood Khan",
+      "Trailing Party": "Samajwadi Party",
+      "Margin": 33042,
+      "Status": "Result Declared"
+    },
+    {
+      "Constituency": "Rasra",
+      "Const. No.": 205,
+      "Leading Candidate": "Ghoora Ram",
+      "Leading Party": "Bahujan Samaj Party",
+      "Trailing Candidate": "Manzoor Ahmad",
+      "Trailing Party": "Samajwadi Party",
+      "Margin": 10018,
+      "Status": "Result Declared"
+    },
+    {
+      "Constituency": "Siar",
+      "Const. No.": 206,
+      "Leading Candidate": "Sharada Nand Anchal",
+      "Leading Party": "Samajwadi Party",
+      "Trailing Candidate": "Manpal Singh",
+      "Trailing Party": "Samajwadi Party",
+      "Margin": 10512,
+      "Status": "Result Declared"
+    },
+    {
+      "Constituency": "Chilkahar",
+      "Const. No.": 207,
+      "Leading Candidate": "Ram Ikabal",
+      "Leading Party": "Bharatiya Janta Party",
+      "Trailing Candidate": "Malik Masood",
+      "Trailing Party": "Bahujan Samaj Party",
+      "Margin": 11676,
+      "Status": "Result Declared"
+    },
+    {
+      "Constituency": "Sikandarpur",
+      "Const. No.": 208,
+      "Leading Candidate": "Jiyauddin Rijvi",
+      "Leading Party": "Samajwadi Party",
+      "Trailing Candidate": "Mahesh Narain Singh",
+      "Trailing Party": "Samajwadi Party",
+      "Margin": 7363,
+      "Status": "Result Declared"
+    },
+    {
+      "Constituency": "Bansdih",
+      "Const. No.": 209,
+      "Leading Candidate": "Ram Govind Chowdhari",
+      "Leading Party": "Samajwadi Janata Party (RASHTRIYA)",
+      "Trailing Candidate": "Mahesh Chandra",
+      "Trailing Party": "Independent",
+      "Margin": 5819,
+      "Status": "Result Declared"
+    },
+    {
+      "Constituency": "Doaba",
+      "Const. No.": 210,
+      "Leading Candidate": "Bharat",
+      "Leading Party": "Bharatiya Janta Party",
+      "Trailing Candidate": "Mahendra Singh Yadav",
+      "Trailing Party": "Bharatiya Janta Party",
+      "Margin": 4856,
+      "Status": "Result Declared"
+    },
+    {
+      "Constituency": "Ballia",
+      "Const. No.": 211,
+      "Leading Candidate": "Narad Rai",
+      "Leading Party": "Samajwadi Party",
+      "Trailing Candidate": "Mahendra Singh Rajpoot",
+      "Trailing Party": "Samajwadi Party",
+      "Margin": 12988,
+      "Status": "Result Declared"
+    },
+    {
+      "Constituency": "Kopachit",
+      "Const. No.": 212,
+      "Leading Candidate": "Ambika Chaudhari",
+      "Leading Party": "Samajwadi Party",
+      "Trailing Candidate": "Mahendra Kumar Singh",
+      "Trailing Party": "Samajwadi Party",
+      "Margin": 8251,
+      "Status": "Result Declared"
+    },
+    {
+      "Constituency": "Zahoorabad",
+      "Const. No.": 213,
+      "Leading Candidate": "Kali Charan",
+      "Leading Party": "Bahujan Samaj Party",
+      "Trailing Candidate": "Mahender Singh",
+      "Trailing Party": "Bahujan Samaj Party",
+      "Margin": 6223,
+      "Status": "Result Declared"
+    },
+    {
+      "Constituency": "Mohammadabad",
+      "Const. No.": 214,
+      "Leading Candidate": "Krishnanand",
+      "Leading Party": "Bharatiya Janta Party",
+      "Trailing Candidate": "Madan Singh Alias Santosh Kumar",
+      "Trailing Party": "Bahujan Samaj Party",
+      "Margin": 7772,
+      "Status": "Result Declared"
+    },
+    {
+      "Constituency": "Dildarnagar",
+      "Const. No.": 215,
+      "Leading Candidate": "Om Prakash",
+      "Leading Party": "Samajwadi Party",
+      "Trailing Candidate": "Madan Gopal Varma",
+      "Trailing Party": "Samajwadi Party",
+      "Margin": 18091,
+      "Status": "Result Declared"
+    },
+    {
+      "Constituency": "Zamania",
+      "Const. No.": 216,
+      "Leading Candidate": "Kailash",
+      "Leading Party": "Samajwadi Party",
+      "Trailing Candidate": "Madan Chouhan",
+      "Trailing Party": "Samajwadi Party",
+      "Margin": 8288,
+      "Status": "Result Declared"
+    },
+    {
+      "Constituency": "Ghazipur",
+      "Const. No.": 217,
+      "Leading Candidate": "Umashanker",
+      "Leading Party": "Bahujan Samaj Party",
+      "Trailing Candidate": "Madan Bhaiya",
+      "Trailing Party": "Independent",
+      "Margin": 716,
+      "Status": "Result Declared"
+    },
+    {
+      "Constituency": "Jakhania",
+      "Const. No.": 218,
+      "Leading Candidate": "Chhedi Ram",
+      "Leading Party": "Samajwadi Party",
+      "Trailing Candidate": "Luis Khursheed",
+      "Trailing Party": "Indian National Congress",
+      "Margin": 6835,
+      "Status": "Result Declared"
+    },
+    {
+      "Constituency": "Sadat",
+      "Const. No.": 219,
+      "Leading Candidate": "Biju Pat Nayak",
+      "Leading Party": "Samajwadi Party",
+      "Trailing Candidate": "Lalloo Singh",
+      "Trailing Party": "Bharatiya Janta Party",
+      "Margin": 7809,
+      "Status": "Result Declared"
+    },
+    {
+      "Constituency": "Saidpur",
+      "Const. No.": 220,
+      "Leading Candidate": "Kailash Nath Singh Yadav",
+      "Leading Party": "Bahujan Samaj Party",
+      "Trailing Candidate": "Lalji Tandon",
+      "Trailing Party": "Bharatiya Janta Party",
+      "Margin": 18423,
+      "Status": "Result Declared"
+    },
+    {
+      "Constituency": "Dhanapur",
+      "Const. No.": 221,
+      "Leading Candidate": "Prabhu Narayan",
+      "Leading Party": "Samajwadi Party",
+      "Trailing Candidate": "Laljee Verma",
+      "Trailing Party": "Bahujan Samaj Party",
+      "Margin": 26,
+      "Status": "Result Declared"
+    },
+    {
+      "Constituency": "Chandauli",
+      "Const. No.": 222,
+      "Leading Candidate": "Sharda Prasad",
+      "Leading Party": "Bahujan Samaj Party",
+      "Trailing Candidate": "Lal Bahadur",
+      "Trailing Party": "Samajwadi Party",
+      "Margin": 5474,
+      "Status": "Result Declared"
+    },
+    {
+      "Constituency": "Chakia",
+      "Const. No.": 223,
+      "Leading Candidate": "Shivtapasya",
+      "Leading Party": "Bharatiya Janta Party",
+      "Trailing Candidate": "Kunwar Sarvesh Kumar Alias Rakesh",
+      "Trailing Party": "Bharatiya Janta Party",
+      "Margin": 2750,
+      "Status": "Result Declared"
+    },
+    {
+      "Constituency": "Mughalsarai",
+      "Const. No.": 224,
+      "Leading Candidate": "Ram Kishun",
+      "Leading Party": "Samajwadi Party",
+      "Trailing Candidate": "Kunwar Raghuraj Pratap Singh Raja Bhaiya",
+      "Trailing Party": "Independent",
+      "Margin": 12044,
+      "Status": "Result Declared"
+    },
+    {
+      "Constituency": "Varanasi Cantonment",
+      "Const. No.": 225,
+      "Leading Candidate": "Harish Chand Srivastava (harish Ji)",
+      "Leading Party": "Bharatiya Janta Party",
+      "Trailing Candidate": "Kunvar Bhartander Singh",
+      "Trailing Party": "Bharatiya Janta Party",
+      "Margin": 12697,
+      "Status": "Result Declared"
+    },
+    {
+      "Constituency": "Varanasi South",
+      "Const. No.": 226,
+      "Leading Candidate": "Shyam Dew Rai Chaudhari (dada)",
+      "Leading Party": "Bharatiya Janta Party",
+      "Trailing Candidate": "Kuldeep Singh",
+      "Trailing Party": "Bahujan Samaj Party",
+      "Margin": 20805,
+      "Status": "Result Declared"
+    },
+    {
+      "Constituency": "Varanasi North",
+      "Const. No.": 227,
+      "Leading Candidate": "Abdul Kalam",
+      "Leading Party": "Samajwadi Party",
+      "Trailing Candidate": "Krishnanand",
+      "Trailing Party": "Bharatiya Janta Party",
+      "Margin": 19537,
+      "Status": "Result Declared"
+    },
+    {
+      "Constituency": "Chiraigaon",
+      "Const. No.": 228,
+      "Leading Candidate": "Ramjit Rajbhar",
+      "Leading Party": "Samajwadi Party",
+      "Trailing Candidate": "Krishna Paswan",
+      "Trailing Party": "Bharatiya Janta Party",
+      "Margin": 8706,
+      "Status": "Result Declared"
+    },
+    {
+      "Constituency": "Kolasla",
+      "Const. No.": 229,
+      "Leading Candidate": "Ajay Rai",
+      "Leading Party": "Bharatiya Janta Party",
+      "Trailing Candidate": "Krishana Kumar Singh Alias Satish Verma",
+      "Trailing Party": "Bahujan Samaj Party",
+      "Margin": 15268,
+      "Status": "Result Declared"
+    },
+    {
+      "Constituency": "Gangapur",
+      "Const. No.": 230,
+      "Leading Candidate": "Surendra Singh Patel",
+      "Leading Party": "Apna Dal",
+      "Trailing Candidate": "Kr. Ratan Jeet Pratap Narayan Singh",
+      "Trailing Party": "Indian National Congress",
+      "Margin": 18033,
+      "Status": "Result Declared"
+    },
+    {
+      "Constituency": "Aurai",
+      "Const. No.": 231,
+      "Leading Candidate": "Uday Bhan Singh",
+      "Leading Party": "Bahujan Samaj Party",
+      "Trailing Candidate": "Kovid Kumar",
+      "Trailing Party": "Bharatiya Janta Party",
+      "Margin": 6494,
+      "Status": "Result Declared"
+    },
+    {
+      "Constituency": "Gyanpur",
+      "Const. No.": 232,
+      "Leading Candidate": "Vijay Kumar Mishra",
+      "Leading Party": "Samajwadi Party",
+      "Trailing Candidate": "Kiran Pal Singh",
+      "Trailing Party": "Samajwadi Party",
+      "Margin": 7652,
+      "Status": "Result Declared"
+    },
+    {
+      "Constituency": "Bhadohi",
+      "Const. No.": 233,
+      "Leading Candidate": "Deenanath Bhaskar",
+      "Leading Party": "Samajwadi Party",
+      "Trailing Candidate": "Kiran Pal",
+      "Trailing Party": "Samajwadi Party",
+      "Margin": 17818,
+      "Status": "Result Declared"
+    },
+    {
+      "Constituency": "Barsathi",
+      "Const. No.": 234,
+      "Leading Candidate": "Shachindra Nath Tripathi",
+      "Leading Party": "Samajwadi Party",
+      "Trailing Candidate": "Keshari Nath Tripathi",
+      "Trailing Party": "Bharatiya Janta Party",
+      "Margin": 10456,
+      "Status": "Result Declared"
+    },
+    {
+      "Constituency": "Mariahu",
+      "Const. No.": 235,
+      "Leading Candidate": "Paras Nath Yadav",
+      "Leading Party": "Samajwadi Party",
+      "Trailing Candidate": "Kawkab Hameed Khan",
+      "Trailing Party": "Rashtriya Lok Dal",
+      "Margin": 7077,
+      "Status": "Result Declared"
+    },
+    {
+      "Constituency": "Kerakat",
+      "Const. No.": 236,
+      "Leading Candidate": "Somaru Ram Saroj",
+      "Leading Party": "Bharatiya Janta Party",
+      "Trailing Candidate": "Kaushal Kishore",
+      "Trailing Party": "Independent",
+      "Margin": 961,
+      "Status": "Result Declared"
+    },
+    {
+      "Constituency": "Beyalsi",
+      "Const. No.": 237,
+      "Leading Candidate": "Jagdish Narayan (rai)",
+      "Leading Party": "Bahujan Samaj Party",
+      "Trailing Candidate": "Kaushal Kishor",
+      "Trailing Party": "Samajwadi Party",
+      "Margin": 12363,
+      "Status": "Result Declared"
+    },
+    {
+      "Constituency": "Jaunpur",
+      "Const. No.": 238,
+      "Leading Candidate": "Surendra Pratap",
+      "Leading Party": "Bharatiya Janta Party",
+      "Trailing Candidate": "Kashi Ram",
+      "Trailing Party": "Samajwadi Party",
+      "Margin": 2825,
+      "Status": "Result Declared"
+    },
+    {
+      "Constituency": "Rari",
+      "Const. No.": 239,
+      "Leading Candidate": "Dhananjay Singh",
+      "Leading Party": "Independent",
+      "Trailing Candidate": "Kapildeo",
+      "Trailing Party": "Bahujan Samaj Party",
+      "Margin": 12989,
+      "Status": "Result Declared"
+    },
+    {
+      "Constituency": "Shahganj",
+      "Const. No.": 240,
+      "Leading Candidate": "Jagdis Sonkar",
+      "Leading Party": "Samajwadi Party",
+      "Trailing Candidate": "Kamlesh Kumar Pathak",
+      "Trailing Party": "Samajwadi Party",
+      "Margin": 5822,
+      "Status": "Result Declared"
+    },
+    {
+      "Constituency": "Khutahan",
+      "Const. No.": 241,
+      "Leading Candidate": "Shailendra Yadav \"lalai\"",
+      "Leading Party": "Bahujan Samaj Party",
+      "Trailing Candidate": "Kamlesh Kumar",
+      "Trailing Party": "Samajwadi Party",
+      "Margin": 10231,
+      "Status": "Result Declared"
+    },
+    {
+      "Constituency": "Garwara",
+      "Const. No.": 242,
+      "Leading Candidate": "Lal Bahadur",
+      "Leading Party": "Samajwadi Party",
+      "Trailing Candidate": "Kamla Prasad Rawat",
+      "Trailing Party": "Bahujan Samaj Party",
+      "Margin": 16255,
+      "Status": "Result Declared"
+    },
+    {
+      "Constituency": "Machhlishahr",
+      "Const. No.": 243,
+      "Leading Candidate": "Vinod Kumar Singh",
+      "Leading Party": "Bahujan Samaj Party",
+      "Trailing Candidate": "Kameshwar",
+      "Trailing Party": "Indian National Congress",
+      "Margin": 1189,
+      "Status": "Result Declared"
+    },
+    {
+      "Constituency": "Dudhi",
+      "Const. No.": 244,
+      "Leading Candidate": "Vijay Singh",
+      "Leading Party": "Samajwadi Party",
+      "Trailing Candidate": "Kamal Yusuf Malik",
+      "Trailing Party": "Samajwadi Party",
+      "Margin": 21036,
+      "Status": "Result Declared"
+    },
+    {
+      "Constituency": "Robertsganj",
+      "Const. No.": 245,
+      "Leading Candidate": "Parmeshwar",
+      "Leading Party": "Samajwadi Party",
+      "Trailing Candidate": "Kalyan Singh Dohare",
+      "Trailing Party": "Samajwadi Party",
+      "Margin": 229,
+      "Status": "Result Declared"
+    },
+    {
+      "Constituency": "Rajgarh",
+      "Const. No.": 246,
+      "Leading Candidate": "Anil Kumar Maurya",
+      "Leading Party": "Bahujan Samaj Party",
+      "Trailing Candidate": "Kalyan Singh",
+      "Trailing Party": "Rashtriya Kranti Party",
+      "Margin": 21496,
+      "Status": "Result Declared"
+    },
+    {
+      "Constituency": "Chunar",
+      "Const. No.": 247,
+      "Leading Candidate": "Om Prakash Singh",
+      "Leading Party": "Bharatiya Janta Party",
+      "Trailing Candidate": "Kalyan Singh",
+      "Trailing Party": "Rashtriya Kranti Party",
+      "Margin": 24952,
+      "Status": "Result Declared"
+    },
+    {
+      "Constituency": "Majhwa",
+      "Const. No.": 248,
+      "Leading Candidate": "Dr. Ramesh Chand Vind",
+      "Leading Party": "Bahujan Samaj Party",
+      "Trailing Candidate": "Kali Charan",
+      "Trailing Party": "Bahujan Samaj Party",
+      "Margin": 16294,
+      "Status": "Result Declared"
+    },
+    {
+      "Constituency": "Mirzapur",
+      "Const. No.": 249,
+      "Leading Candidate": "Kailash Chaurasiya",
+      "Leading Party": "Samajwadi Party",
+      "Trailing Candidate": "Kailash Nath Singh Yadav",
+      "Trailing Party": "Bahujan Samaj Party",
+      "Margin": 8296,
+      "Status": "Result Declared"
+    },
+    {
+      "Constituency": "Chhanvey",
+      "Const. No.": 250,
+      "Leading Candidate": "Pakauri Lal",
+      "Leading Party": "Bahujan Samaj Party",
+      "Trailing Candidate": "Kailash Chaurasiya",
+      "Trailing Party": "Samajwadi Party",
+      "Margin": 16408,
+      "Status": "Result Declared"
+    },
+    {
+      "Constituency": "Meja",
+      "Const. No.": 251,
+      "Leading Candidate": "Ram Kripal",
+      "Leading Party": "Communist Party Of India (MARXIST)",
+      "Trailing Candidate": "Kailash",
+      "Trailing Party": "Samajwadi Party",
+      "Margin": 11291,
+      "Status": "Result Declared"
+    },
+    {
+      "Constituency": "Karchana",
+      "Const. No.": 252,
+      "Leading Candidate": "Raman Singh",
+      "Leading Party": "Samajwadi Party",
+      "Trailing Candidate": "Jiyauddin Rijvi",
+      "Trailing Party": "Samajwadi Party",
+      "Margin": 14254,
+      "Status": "Result Declared"
+    },
+    {
+      "Constituency": "Bara",
+      "Const. No.": 253,
+      "Leading Candidate": "Udai Bhan Karvaria",
+      "Leading Party": "Bharatiya Janta Party",
+      "Trailing Candidate": "Jitendra Kumar Jaiswal Urf Pappu Bhaiya",
+      "Trailing Party": "Independent",
+      "Margin": 65,
+      "Status": "Result Declared"
+    },
+    {
+      "Constituency": "Jhusi",
+      "Const. No.": 254,
+      "Leading Candidate": "Vijaya Yadav",
+      "Leading Party": "Samajwadi Party",
+      "Trailing Candidate": "Jata Shankar Singh",
+      "Trailing Party": "Bharatiya Janta Party",
+      "Margin": 18664,
+      "Status": "Result Declared"
+    },
+    {
+      "Constituency": "Handia",
+      "Const. No.": 255,
+      "Leading Candidate": "Mahesh Narain Singh",
+      "Leading Party": "Samajwadi Party",
+      "Trailing Candidate": "Jamaluddin Siddiqui",
+      "Trailing Party": "Samajwadi Party",
+      "Margin": 27315,
+      "Status": "Result Declared"
+    },
+    {
+      "Constituency": "Pratappur",
+      "Const. No.": 256,
+      "Leading Candidate": "Shyam Surat Upadhya",
+      "Leading Party": "Indian National Congress",
+      "Trailing Candidate": "Jaiprakash Yadva",
+      "Trailing Party": "Bahujan Samaj Party",
+      "Margin": 1890,
+      "Status": "Result Declared"
+    },
+    {
+      "Constituency": "Soraon",
+      "Const. No.": 257,
+      "Leading Candidate": "Mohd Mujtaba Siddiqui",
+      "Leading Party": "Bahujan Samaj Party",
+      "Trailing Candidate": "Jaibir Singh",
+      "Trailing Party": "Bahujan Samaj Party",
+      "Margin": 765,
+      "Status": "Result Declared"
+    },
+    {
+      "Constituency": "Nawabganj",
+      "Const. No.": 258,
+      "Leading Candidate": "Ansar Ahmad",
+      "Leading Party": "Apna Dal",
+      "Trailing Candidate": "Jai Pratap Singh",
+      "Trailing Party": "Bharatiya Janta Party",
+      "Margin": 2657,
+      "Status": "Result Declared"
+    },
+    {
+      "Constituency": "Allahabad North",
+      "Const. No.": 259,
+      "Leading Candidate": "Dr. Narendra Kumar Singh Gaur",
+      "Leading Party": "Bharatiya Janta Party",
+      "Trailing Candidate": "Jagram",
+      "Trailing Party": "Samajwadi Party",
+      "Margin": 4211,
+      "Status": "Result Declared"
+    },
+    {
+      "Constituency": "Allahabad South",
+      "Const. No.": 260,
+      "Leading Candidate": "Keshari Nath Tripathi",
+      "Leading Party": "Bharatiya Janta Party",
+      "Trailing Candidate": "Jagdish Singh Rana",
+      "Trailing Party": "Samajwadi Party",
+      "Margin": 2075,
+      "Status": "Result Declared"
+    },
+    {
+      "Constituency": "Allahabad West",
+      "Const. No.": 261,
+      "Leading Candidate": "Atiq Ahmad",
+      "Leading Party": "Apna Dal",
+      "Trailing Candidate": "Jagdish Narayan (rai)",
+      "Trailing Party": "Bahujan Samaj Party",
+      "Margin": 11808,
+      "Status": "Result Declared"
+    },
+    {
+      "Constituency": "Chail",
+      "Const. No.": 262,
+      "Leading Candidate": "Dayaram",
+      "Leading Party": "Bahujan Samaj Party",
+      "Trailing Candidate": "Jagdish Misra Balti Baba",
+      "Trailing Party": "Bharatiya Janta Party",
+      "Margin": 13016,
+      "Status": "Result Declared"
+    },
+    {
+      "Constituency": "Manjhanpur",
+      "Const. No.": 263,
+      "Leading Candidate": "Indrajeet Saroj",
+      "Leading Party": "Bahujan Samaj Party",
+      "Trailing Candidate": "Jagdis Sonkar",
+      "Trailing Party": "Samajwadi Party",
+      "Margin": 4213,
+      "Status": "Result Declared"
+    },
+    {
+      "Constituency": "Sirathu",
+      "Const. No.": 264,
+      "Leading Candidate": "Matesh Chandra Sonkar",
+      "Leading Party": "Bahujan Samaj Party",
+      "Trailing Candidate": "Jagan Prasad Garg",
+      "Trailing Party": "Bharatiya Janta Party",
+      "Margin": 3809,
+      "Status": "Result Declared"
+    },
+    {
+      "Constituency": "Khaga",
+      "Const. No.": 265,
+      "Leading Candidate": "Mohd. Shafir",
+      "Leading Party": "Bahujan Samaj Party",
+      "Trailing Candidate": "Jagadambika Pal",
+      "Trailing Party": "Indian National Congress",
+      "Margin": 3074,
+      "Status": "Result Declared"
+    },
+    {
+      "Constituency": "Kishunpur",
+      "Const. No.": 266,
+      "Leading Candidate": "Krishna Paswan",
+      "Leading Party": "Bharatiya Janta Party",
+      "Trailing Candidate": "Iqbal Mahmood",
+      "Trailing Party": "Samajwadi Party",
+      "Margin": 786,
+      "Status": "Result Declared"
+    },
+    {
+      "Constituency": "Haswa",
+      "Const. No.": 267,
+      "Leading Candidate": "Ayodhya Prasad Pal",
+      "Leading Party": "Bahujan Samaj Party",
+      "Trailing Candidate": "Indrajeet Saroj",
+      "Trailing Party": "Bahujan Samaj Party",
+      "Margin": 3115,
+      "Status": "Result Declared"
+    },
+    {
+      "Constituency": "Fatehpur",
+      "Const. No.": 268,
+      "Leading Candidate": "Anand Prakash Lohdi",
+      "Leading Party": "Bahujan Samaj Party",
+      "Trailing Candidate": "Indra Dev",
+      "Trailing Party": "Bharatiya Janta Party",
+      "Margin": 10410,
+      "Status": "Result Declared"
+    },
+    {
+      "Constituency": "Jahanabad",
+      "Const. No.": 269,
+      "Leading Candidate": "Madan Gopal Varma",
+      "Leading Party": "Samajwadi Party",
+      "Trailing Candidate": "Ilam Singh",
+      "Trailing Party": "Bahujan Samaj Party",
+      "Margin": 468,
+      "Status": "Result Declared"
+    },
+    {
+      "Constituency": "Bindki",
+      "Const. No.": 270,
+      "Leading Candidate": "Amar Jeet Singh \"jansewak\"",
+      "Leading Party": "Bharatiya Janta Party",
+      "Trailing Candidate": "Hukum Singh",
+      "Trailing Party": "Bharatiya Janta Party",
+      "Margin": 3310,
+      "Status": "Result Declared"
+    },
+    {
+      "Constituency": "Aryanagar",
+      "Const. No.": 271,
+      "Leading Candidate": "Haji Mushtaq Solanki",
+      "Leading Party": "Samajwadi Party",
+      "Trailing Candidate": "Hoshiyar Singh",
+      "Trailing Party": "Independent",
+      "Margin": 27316,
+      "Status": "Result Declared"
+    },
+    {
+      "Constituency": "Sisamau",
+      "Const. No.": 272,
+      "Leading Candidate": "Sanjeev Daryawadi",
+      "Leading Party": "Indian National Congress",
+      "Trailing Candidate": "Hira Lal Gautam",
+      "Trailing Party": "Bahujan Samaj Party",
+      "Margin": 5549,
+      "Status": "Result Declared"
+    },
+    {
+      "Constituency": "Generalganj",
+      "Const. No.": 273,
+      "Leading Candidate": "Salil Vishnoi",
+      "Leading Party": "Bharatiya Janta Party",
+      "Trailing Candidate": "Harishanker Tewari",
+      "Trailing Party": "Akhil Bhartiya Lok Tantrik Congress",
+      "Margin": 1031,
+      "Status": "Result Declared"
+    },
+    {
+      "Constituency": "Kanpur Cantonment",
+      "Const. No.": 274,
+      "Leading Candidate": "Satish Mahana",
+      "Leading Party": "Bharatiya Janta Party",
+      "Trailing Candidate": "Harish Chand Srivastava (harish Ji)",
+      "Trailing Party": "Bharatiya Janta Party",
+      "Margin": 10065,
+      "Status": "Result Declared"
+    },
+    {
+      "Constituency": "Govindnagar",
+      "Const. No.": 275,
+      "Leading Candidate": "Ajay Kapoor",
+      "Leading Party": "Indian National Congress",
+      "Trailing Candidate": "Hari Pratap Singh",
+      "Trailing Party": "Bharatiya Janta Party",
+      "Margin": 52960,
+      "Status": "Result Declared"
+    },
+    {
+      "Constituency": "Kalyanpur",
+      "Const. No.": 276,
+      "Leading Candidate": "Prem Lata Katiyar",
+      "Leading Party": "Bharatiya Janta Party",
+      "Trailing Candidate": "Hari Om",
+      "Trailing Party": "Samajwadi Party",
+      "Margin": 8162,
+      "Status": "Result Declared"
+    },
+    {
+      "Constituency": "Sarsaul",
+      "Const. No.": 277,
+      "Leading Candidate": "Aruna Tomar",
+      "Leading Party": "Samajwadi Party",
+      "Trailing Candidate": "Haji Yaqoob",
+      "Trailing Party": "Bahujan Samaj Party",
+      "Margin": 6993,
+      "Status": "Result Declared"
+    },
+    {
+      "Constituency": "Ghatampur",
+      "Const. No.": 278,
+      "Leading Candidate": "Rakesh Sachan",
+      "Leading Party": "Samajwadi Party",
+      "Trailing Candidate": "Haji Mushtaq Solanki",
+      "Trailing Party": "Samajwadi Party",
+      "Margin": 7256,
+      "Status": "Result Declared"
+    },
+    {
+      "Constituency": "Bhognipur",
+      "Const. No.": 279,
+      "Leading Candidate": "Arun Kumari",
+      "Leading Party": "Samajwadi Party",
+      "Trailing Candidate": "Gyanendra Singh",
+      "Trailing Party": "Bharatiya Janta Party",
+      "Margin": 9970,
+      "Status": "Result Declared"
+    },
+    {
+      "Constituency": "Rajpur",
+      "Const. No.": 280,
+      "Leading Candidate": "Mahesh Chandra",
+      "Leading Party": "Independent",
+      "Trailing Candidate": "Gulab Devi",
+      "Trailing Party": "Bharatiya Janta Party",
+      "Margin": 972,
+      "Status": "Result Declared"
+    },
+    {
+      "Constituency": "Sarvankhera",
+      "Const. No.": 281,
+      "Leading Candidate": "Ram Swaroop Singh",
+      "Leading Party": "Bahujan Samaj Party",
+      "Trailing Candidate": "Ghoora Ram",
+      "Trailing Party": "Bahujan Samaj Party",
+      "Margin": 617,
+      "Status": "Result Declared"
+    },
+    {
+      "Constituency": "Chaubepur",
+      "Const. No.": 282,
+      "Leading Candidate": "Ashok Kumar",
+      "Leading Party": "Bahujan Samaj Party",
+      "Trailing Candidate": "Ghanshyam Shukla",
+      "Trailing Party": "Bharatiya Janta Party",
+      "Margin": 702,
+      "Status": "Result Declared"
+    },
+    {
+      "Constituency": "Bilhaur",
+      "Const. No.": 283,
+      "Leading Candidate": "Shiv Kumar Beria",
+      "Leading Party": "Samajwadi Party",
+      "Trailing Candidate": "Geeta Singh",
+      "Trailing Party": "Samajwadi Party",
+      "Margin": 6426,
+      "Status": "Result Declared"
+    },
+    {
+      "Constituency": "Derapur",
+      "Const. No.": 284,
+      "Leading Candidate": "Kamlesh Kumar Pathak",
+      "Leading Party": "Samajwadi Party",
+      "Trailing Candidate": "Gaya Charan Dinkar",
+      "Trailing Party": "Bahujan Samaj Party",
+      "Margin": 15065,
+      "Status": "Result Declared"
+    },
+    {
+      "Constituency": "Auraiya",
+      "Const. No.": 285,
+      "Leading Candidate": "Ram Ji Shukla",
+      "Leading Party": "Bahujan Samaj Party",
+      "Trailing Candidate": "Ganga Prasad Pushkar",
+      "Trailing Party": "Rashtriya Lok Dal",
+      "Margin": 1033,
+      "Status": "Result Declared"
+    },
+    {
+      "Constituency": "Ajitmal",
+      "Const. No.": 286,
+      "Leading Candidate": "Madan Singh Alias Santosh Kumar",
+      "Leading Party": "Bahujan Samaj Party",
+      "Trailing Candidate": "Ganga Bux Singh",
+      "Trailing Party": "Bharatiya Janta Party",
+      "Margin": 3099,
+      "Status": "Result Declared"
+    },
+    {
+      "Constituency": "Lakhana",
+      "Const. No.": 287,
+      "Leading Candidate": "Sukhdevi Verma",
+      "Leading Party": "Samajwadi Party",
+      "Trailing Candidate": "Ganga Bhakt Singh",
+      "Trailing Party": "Bharatiya Janta Party",
+      "Margin": 2142,
+      "Status": "Result Declared"
+    },
+    {
+      "Constituency": "Etawah",
+      "Const. No.": 288,
+      "Leading Candidate": "Mahendra Singh Rajpoot",
+      "Leading Party": "Samajwadi Party",
+      "Trailing Candidate": "Fateh Bahadur",
+      "Trailing Party": "Bharatiya Janta Party",
+      "Margin": 4030,
+      "Status": "Result Declared"
+    },
+    {
+      "Constituency": "Jaswantnagar",
+      "Const. No.": 289,
+      "Leading Candidate": "Shiv Pal Singh Yadav",
+      "Leading Party": "Samajwadi Party",
+      "Trailing Candidate": "Fasiha Murad Lari Alias Gajala",
+      "Trailing Party": "Bahujan Samaj Party",
+      "Margin": 52989,
+      "Status": "Result Declared"
+    },
+    {
+      "Constituency": "Bharthana",
+      "Const. No.": 290,
+      "Leading Candidate": "Vinod Kumar Yadav \"kakka\"",
+      "Leading Party": "Indian National Congress",
+      "Trailing Candidate": "Fagoo",
+      "Trailing Party": "Bharatiya Janta Party",
+      "Margin": 19760,
+      "Status": "Result Declared"
+    },
+    {
+      "Constituency": "Bidhuna",
+      "Const. No.": 291,
+      "Leading Candidate": "Vinay Shakya",
+      "Leading Party": "Bahujan Samaj Party",
+      "Trailing Candidate": "Durga Prasad Yadav",
+      "Trailing Party": "Samajwadi Party",
+      "Margin": 7859,
+      "Status": "Result Declared"
+    },
+    {
+      "Constituency": "Kannauj",
+      "Const. No.": 292,
+      "Leading Candidate": "Kalyan Singh Dohare",
+      "Leading Party": "Samajwadi Party",
+      "Trailing Candidate": "Durga Prasad Misra",
+      "Trailing Party": "Independent",
+      "Margin": 1802,
+      "Status": "Result Declared"
+    },
+    {
+      "Constituency": "Umardha",
+      "Const. No.": 293,
+      "Leading Candidate": "Vijay Bahadur Pal",
+      "Leading Party": "Samajwadi Party",
+      "Trailing Candidate": "Dr.Ram Babu Harit",
+      "Trailing Party": "Bharatiya Janta Party",
+      "Margin": 6745,
+      "Status": "Result Declared"
+    },
+    {
+      "Constituency": "Chhibramau",
+      "Const. No.": 294,
+      "Leading Candidate": "Ram Prakash Tripathi",
+      "Leading Party": "Bharatiya Janta Party",
+      "Trailing Candidate": "Dr.Radha Mohan Das Agrawal",
+      "Trailing Party": "Akhil Bharat Hindu Mahasabha",
+      "Margin": 9999,
+      "Status": "Result Declared"
+    },
+    {
+      "Constituency": "Kamalganj",
+      "Const. No.": 295,
+      "Leading Candidate": "Jamaluddin Siddiqui",
+      "Leading Party": "Samajwadi Party",
+      "Trailing Candidate": "Dr. Vinod Tiwari",
+      "Trailing Party": "Bharatiya Janta Party",
+      "Margin": 2175,
+      "Status": "Result Declared"
+    },
+    {
+      "Constituency": "Farrukhabad",
+      "Const. No.": 296,
+      "Leading Candidate": "Bijai Singh",
+      "Leading Party": "Independent",
+      "Trailing Candidate": "Dr. Sushil Chaudhary",
+      "Trailing Party": "Indian National Congress",
+      "Margin": 9418,
+      "Status": "Result Declared"
+    },
+    {
+      "Constituency": "Kaimganj",
+      "Const. No.": 297,
+      "Leading Candidate": "Luis Khursheed",
+      "Leading Party": "Indian National Congress",
+      "Trailing Candidate": "Dr. Surendra Pal Verma",
+      "Trailing Party": "Bahujan Samaj Party",
+      "Margin": 4264,
+      "Status": "Result Declared"
+    },
+    {
+      "Constituency": "Mohammdabad",
+      "Const. No.": 298,
+      "Leading Candidate": "Narendra Singh Yadav",
+      "Leading Party": "Samajwadi Party",
+      "Trailing Candidate": "Dr. Siyaram Sagar",
+      "Trailing Party": "Samajwadi Party",
+      "Margin": 16931,
+      "Status": "Result Declared"
+    },
+    {
+      "Constituency": "Manikpur",
+      "Const. No.": 299,
+      "Leading Candidate": "Daddu Prashad",
+      "Leading Party": "Bahujan Samaj Party",
+      "Trailing Candidate": "Dr. Ramesh Chand Vind",
+      "Trailing Party": "Bahujan Samaj Party",
+      "Margin": 23225,
+      "Status": "Result Declared"
+    },
+    {
+      "Constituency": "Karwi",
+      "Const. No.": 300,
+      "Leading Candidate": "R.K. Singh Patel",
+      "Leading Party": "Bahujan Samaj Party",
+      "Trailing Candidate": "Dr. P.K. Rai",
+      "Trailing Party": "Samajwadi Party",
+      "Margin": 15515,
+      "Status": "Result Declared"
+    },
+    {
+      "Constituency": "Baberu",
+      "Const. No.": 301,
+      "Leading Candidate": "Gaya Charan Dinkar",
+      "Leading Party": "Bahujan Samaj Party",
+      "Trailing Candidate": "Dr. Narendra Kumar Singh Gaur",
+      "Trailing Party": "Bharatiya Janta Party",
+      "Margin": 9820,
+      "Status": "Result Declared"
+    },
+    {
+      "Constituency": "Tindwari",
+      "Const. No.": 302,
+      "Leading Candidate": "Vishambhar Prasad Nishad",
+      "Leading Party": "Samajwadi Party",
+      "Trailing Candidate": "Dr. Laxmi Kant Vajpai",
+      "Trailing Party": "Bharatiya Janta Party",
+      "Margin": 2916,
+      "Status": "Result Declared"
+    },
+    {
+      "Constituency": "Banda",
+      "Const. No.": 303,
+      "Leading Candidate": "Babu Lal Kushwaha",
+      "Leading Party": "Bahujan Samaj Party",
+      "Trailing Candidate": "Dr Vaqar Ahmad Shah",
+      "Trailing Party": "Samajwadi Party",
+      "Margin": 2037,
+      "Status": "Result Declared"
+    },
+    {
+      "Constituency": "Naraini",
+      "Const. No.": 304,
+      "Leading Candidate": "Dr. Surendra Pal Verma",
+      "Leading Party": "Bahujan Samaj Party",
+      "Trailing Candidate": "Dinesh Singh",
+      "Trailing Party": "Indian National Congress",
+      "Margin": 6750,
+      "Status": "Result Declared"
+    },
+    {
+      "Constituency": "Hamirpur",
+      "Const. No.": 305,
+      "Leading Candidate": "Sheo Charan",
+      "Leading Party": "Bahujan Samaj Party",
+      "Trailing Candidate": "Dinanath Kushwaha",
+      "Trailing Party": "National Loktantrik Party",
+      "Margin": 8962,
+      "Status": "Result Declared"
+    },
+    {
+      "Constituency": "Maudaha",
+      "Const. No.": 306,
+      "Leading Candidate": "Badshah Singh",
+      "Leading Party": "Bharatiya Janta Party",
+      "Trailing Candidate": "Dhooram",
+      "Trailing Party": "Bahujan Samaj Party",
+      "Margin": 5677,
+      "Status": "Result Declared"
+    },
+    {
+      "Constituency": "Rath",
+      "Const. No.": 307,
+      "Leading Candidate": "Dhooram",
+      "Leading Party": "Bahujan Samaj Party",
+      "Trailing Candidate": "Dharmendra Kumar",
+      "Trailing Party": "Bahujan Samaj Party",
+      "Margin": 11625,
+      "Status": "Result Declared"
+    },
+    {
+      "Constituency": "Charkhari",
+      "Const. No.": 308,
+      "Leading Candidate": "Ambesh Kumari",
+      "Leading Party": "Samajwadi Party",
+      "Trailing Candidate": "Dharm Pal Singh",
+      "Trailing Party": "Bharatiya Janta Party",
+      "Margin": 3658,
+      "Status": "Result Declared"
+    },
+    {
+      "Constituency": "Mahoba",
+      "Const. No.": 309,
+      "Leading Candidate": "Siddha Gopal",
+      "Leading Party": "Samajwadi Party",
+      "Trailing Candidate": "Dharampal",
+      "Trailing Party": "Bahujan Samaj Party",
+      "Margin": 2357,
+      "Status": "Result Declared"
+    },
+    {
+      "Constituency": "Mehroni",
+      "Const. No.": 310,
+      "Leading Candidate": "Pooran Singh Bundela",
+      "Leading Party": "Bharatiya Janta Party",
+      "Trailing Candidate": "Dharam Singh",
+      "Trailing Party": "Bahujan Samaj Party",
+      "Margin": 12742,
+      "Status": "Result Declared"
+    },
+    {
+      "Constituency": "Lalitpur",
+      "Const. No.": 311,
+      "Leading Candidate": "Birendra Singh Bund Bhagatraja",
+      "Leading Party": "Indian National Congress",
+      "Trailing Candidate": "Dharam Raj Nishad",
+      "Trailing Party": "Bahujan Samaj Party",
+      "Margin": 12047,
+      "Status": "Result Declared"
+    },
+    {
+      "Constituency": "Jhansi",
+      "Const. No.": 312,
+      "Leading Candidate": "Ramesh Kumar Sharma",
+      "Leading Party": "Bahujan Samaj Party",
+      "Trailing Candidate": "Dhananjay Singh",
+      "Trailing Party": "Independent",
+      "Margin": 18507,
+      "Status": "Result Declared"
+    },
+    {
+      "Constituency": "Babina",
+      "Const. No.": 313,
+      "Leading Candidate": "Ratan Lal Ahirwar",
+      "Leading Party": "Samajwadi Party",
+      "Trailing Candidate": "Devki Nandan",
+      "Trailing Party": "Bharatiya Janta Party",
+      "Margin": 1331,
+      "Status": "Result Declared"
+    },
+    {
+      "Constituency": "Mauranipur",
+      "Const. No.": 314,
+      "Leading Candidate": "Pragilal Ahirwar",
+      "Leading Party": "Bharatiya Janta Party",
+      "Trailing Candidate": "Devendra Pratap Singh",
+      "Trailing Party": "Samajwadi Party",
+      "Margin": 2325,
+      "Status": "Result Declared"
+    },
+    {
+      "Constituency": "Garoutha",
+      "Const. No.": 315,
+      "Leading Candidate": "Brijendra Kumar Vyas \"damdam Mahraj\"",
+      "Leading Party": "Bahujan Samaj Party",
+      "Trailing Candidate": "Devendra Pratap",
+      "Trailing Party": "Rashtriya Kranti Party",
+      "Margin": 13425,
+      "Status": "Result Declared"
+    },
+    {
+      "Constituency": "Konch",
+      "Const. No.": 316,
+      "Leading Candidate": "Daya Shanker Verma",
+      "Leading Party": "Bharatiya Janta Party",
+      "Trailing Candidate": "Devendra Nagpal",
+      "Trailing Party": "Independent",
+      "Margin": 11744,
+      "Status": "Result Declared"
+    },
+    {
+      "Constituency": "Orai",
+      "Const. No.": 317,
+      "Leading Candidate": "Babu Ram M.Com",
+      "Leading Party": "Bharatiya Janta Party",
+      "Trailing Candidate": "Dev Narayan Alis G.M. Singh",
+      "Trailing Party": "Bahujan Samaj Party",
+      "Margin": 1912,
+      "Status": "Result Declared"
+    },
+    {
+      "Constituency": "Kalpi",
+      "Const. No.": 318,
+      "Leading Candidate": "Arun Kumar Meharotra",
+      "Leading Party": "Bharatiya Janta Party",
+      "Trailing Candidate": "Deenanath Bhaskar",
+      "Trailing Party": "Samajwadi Party",
+      "Margin": 2731,
+      "Status": "Result Declared"
+    },
+    {
+      "Constituency": "Madhogarh",
+      "Const. No.": 319,
+      "Leading Candidate": "Brajendra Pratap Singh",
+      "Leading Party": "Bahujan Samaj Party",
+      "Trailing Candidate": "Dayaram",
+      "Trailing Party": "Bahujan Samaj Party",
+      "Margin": 2545,
+      "Status": "Result Declared"
+    },
+    {
+      "Constituency": "Bhongaon",
+      "Const. No.": 320,
+      "Leading Candidate": "Alok Kumar",
+      "Leading Party": "Samajwadi Party",
+      "Trailing Candidate": "Daya Shanker Verma",
+      "Trailing Party": "Bharatiya Janta Party",
+      "Margin": 14194,
+      "Status": "Result Declared"
+    },
+    {
+      "Constituency": "Kishni",
+      "Const. No.": 321,
+      "Leading Candidate": "Sandhya Katheriya",
+      "Leading Party": "Samajwadi Party",
+      "Trailing Candidate": "Dawarika Prasad",
+      "Trailing Party": "Bharatiya Janta Party",
+      "Margin": 14559,
+      "Status": "Result Declared"
+    },
+    {
+      "Constituency": "Karhal",
+      "Const. No.": 322,
+      "Leading Candidate": "Sovran Singh",
+      "Leading Party": "Bharatiya Janta Party",
+      "Trailing Candidate": "Daddu Prashad",
+      "Trailing Party": "Bahujan Samaj Party",
+      "Margin": 925,
+      "Status": "Result Declared"
+    },
+    {
+      "Constituency": "Shikohabad",
+      "Const. No.": 323,
+      "Leading Candidate": "Hari Om",
+      "Leading Party": "Samajwadi Party",
+      "Trailing Candidate": "Chitranjan Swarup",
+      "Trailing Party": "Samajwadi Party",
+      "Margin": 18365,
+      "Status": "Result Declared"
+    },
+    {
+      "Constituency": "Jasrana",
+      "Const. No.": 324,
+      "Leading Candidate": "Ramvir Singh",
+      "Leading Party": "Samajwadi Party",
+      "Trailing Candidate": "Chhotelal Verma",
+      "Trailing Party": "Bharatiya Janta Party",
+      "Margin": 19862,
+      "Status": "Result Declared"
+    },
+    {
+      "Constituency": "Ghiror",
+      "Const. No.": 325,
+      "Leading Candidate": "Jaibir Singh",
+      "Leading Party": "Bahujan Samaj Party",
+      "Trailing Candidate": "Chhote Lal",
+      "Trailing Party": "Samajwadi Party",
+      "Margin": 454,
+      "Status": "Result Declared"
+    },
+    {
+      "Constituency": "Mainpuri",
+      "Const. No.": 326,
+      "Leading Candidate": "Ashok Singh Chauhan",
+      "Leading Party": "Bharatiya Janta Party",
+      "Trailing Candidate": "Chhedi Ram",
+      "Trailing Party": "Samajwadi Party",
+      "Margin": 1829,
+      "Status": "Result Declared"
+    },
+    {
+      "Constituency": "Aliganj",
+      "Const. No.": 327,
+      "Leading Candidate": "Rameshwer Singh Yadav",
+      "Leading Party": "Samajwadi Party",
+      "Trailing Candidate": "Chaudhary Babu Lal",
+      "Trailing Party": "Rashtriya Lok Dal",
+      "Margin": 6938,
+      "Status": "Result Declared"
+    },
+    {
+      "Constituency": "Patiali",
+      "Const. No.": 328,
+      "Leading Candidate": "Rajendra Singh Chauhan",
+      "Leading Party": "Bahujan Samaj Party",
+      "Trailing Candidate": "Chandramani Kant Singh",
+      "Trailing Party": "Bharatiya Janta Party",
+      "Margin": 2129,
+      "Status": "Result Declared"
+    },
+    {
+      "Constituency": "Sakit",
+      "Const. No.": 329,
+      "Leading Candidate": "Suraj Singh Shakya",
+      "Leading Party": "Samajwadi Party",
+      "Trailing Candidate": "Chandradeo Ram Yadav Karailee",
+      "Trailing Party": "Bahujan Samaj Party",
+      "Margin": 15628,
+      "Status": "Result Declared"
+    },
+    {
+      "Constituency": "Soron",
+      "Const. No.": 330,
+      "Leading Candidate": "Devendra Pratap",
+      "Leading Party": "Rashtriya Kranti Party",
+      "Trailing Candidate": "Chandra Kishor",
+      "Trailing Party": "Bharatiya Janta Party",
+      "Margin": 12214,
+      "Status": "Result Declared"
+    },
+    {
+      "Constituency": "Kasganj",
+      "Const. No.": 331,
+      "Leading Candidate": "Manpal Singh",
+      "Leading Party": "Samajwadi Party",
+      "Trailing Candidate": "Chandra Bhadra Singh",
+      "Trailing Party": "Samajwadi Party",
+      "Margin": 6546,
+      "Status": "Result Declared"
+    },
+    {
+      "Constituency": "Etah",
+      "Const. No.": 332,
+      "Leading Candidate": "Shishu Pal Singh Yadav",
+      "Leading Party": "Samajwadi Party",
+      "Trailing Candidate": "Brijendra Kumar Vyas \"damdam Mahraj\"",
+      "Trailing Party": "Bahujan Samaj Party",
+      "Margin": 11072,
+      "Status": "Result Declared"
+    },
+    {
+      "Constituency": "Nidhauli Kalan",
+      "Const. No.": 333,
+      "Leading Candidate": "Anil Kumar Singh Yadav",
+      "Leading Party": "Samajwadi Party",
+      "Trailing Candidate": "Brajendra Pratap Singh",
+      "Trailing Party": "Bahujan Samaj Party",
+      "Margin": 28261,
+      "Status": "Result Declared"
+    },
+    {
+      "Constituency": "Jalesar",
+      "Const. No.": 334,
+      "Leading Candidate": "Anar Singh Diwakar",
+      "Leading Party": "Samajwadi Party",
+      "Trailing Candidate": "Brahma Shanker Tripathi",
+      "Trailing Party": "Samajwadi Party",
+      "Margin": 7101,
+      "Status": "Result Declared"
+    },
+    {
+      "Constituency": "Firozabad",
+      "Const. No.": 335,
+      "Leading Candidate": "Azim Bhai",
+      "Leading Party": "Samajwadi Party",
+      "Trailing Candidate": "Birendra Singh Bund Bhagatraja",
+      "Trailing Party": "Indian National Congress",
+      "Margin": 9728,
+      "Status": "Result Declared"
+    },
+    {
+      "Constituency": "Bah",
+      "Const. No.": 336,
+      "Leading Candidate": "Raja Mahendra Aridaman Singh",
+      "Leading Party": "Bharatiya Janta Party",
+      "Trailing Candidate": "Biju Pat Nayak",
+      "Trailing Party": "Samajwadi Party",
+      "Margin": 26007,
+      "Status": "Result Declared"
+    },
+    {
+      "Constituency": "Fatehabad",
+      "Const. No.": 337,
+      "Leading Candidate": "Chhotelal Verma",
+      "Leading Party": "Bharatiya Janta Party",
+      "Trailing Candidate": "Bijai Singh",
+      "Trailing Party": "Independent",
+      "Margin": 4625,
+      "Status": "Result Declared"
+    },
+    {
+      "Constituency": "Tundla",
+      "Const. No.": 338,
+      "Leading Candidate": "Mohan Dev Shankhvar",
+      "Leading Party": "Samajwadi Party",
+      "Trailing Candidate": "Bhupendra Singh",
+      "Trailing Party": "Bahujan Samaj Party",
+      "Margin": 4751,
+      "Status": "Result Declared"
+    },
+    {
+      "Constituency": "Etmadpur",
+      "Const. No.": 339,
+      "Leading Candidate": "Ganga Prasad Pushkar",
+      "Leading Party": "Rashtriya Lok Dal",
+      "Trailing Candidate": "Bharat",
+      "Trailing Party": "Bharatiya Janta Party",
+      "Margin": 4814,
+      "Status": "Result Declared"
+    },
+    {
+      "Constituency": "Dayalbagh",
+      "Const. No.": 340,
+      "Leading Candidate": "Seth Kishan Lal Baghel",
+      "Leading Party": "Bahujan Samaj Party",
+      "Trailing Candidate": "Bhagwat Saran Gangwar",
+      "Trailing Party": "Samajwadi Party",
+      "Margin": 12198,
+      "Status": "Result Declared"
+    },
+    {
+      "Constituency": "Agra Cantonment",
+      "Const. No.": 341,
+      "Leading Candidate": "Mohammad Basheer",
+      "Leading Party": "Bahujan Samaj Party",
+      "Trailing Candidate": "Bhagelu Ram",
+      "Trailing Party": "Bahujan Samaj Party",
+      "Margin": 1520,
+      "Status": "Result Declared"
+    },
+    {
+      "Constituency": "Agra East",
+      "Const. No.": 342,
+      "Leading Candidate": "Jagan Prasad Garg",
+      "Leading Party": "Bharatiya Janta Party",
+      "Trailing Candidate": "Beena Bhardwaj",
+      "Trailing Party": "Samajwadi Party",
+      "Margin": 12749,
+      "Status": "Result Declared"
+    },
+    {
+      "Constituency": "Agra West",
+      "Const. No.": 343,
+      "Leading Candidate": "Dr.Ram Babu Harit",
+      "Leading Party": "Bharatiya Janta Party",
+      "Trailing Candidate": "Banshi Dhar Raj",
+      "Trailing Party": "Samajwadi Party",
+      "Margin": 7949,
+      "Status": "Result Declared"
+    },
+    {
+      "Constituency": "Kheragarh",
+      "Const. No.": 344,
+      "Leading Candidate": "Ramesh Kant Lawania",
+      "Leading Party": "Bharatiya Janta Party",
+      "Trailing Candidate": "Balram Yadav",
+      "Trailing Party": "Samajwadi Party",
+      "Margin": 7107,
+      "Status": "Result Declared"
+    },
+    {
+      "Constituency": "Fatehpur Sikri",
+      "Const. No.": 345,
+      "Leading Candidate": "Chaudhary Babu Lal",
+      "Leading Party": "Rashtriya Lok Dal",
+      "Trailing Candidate": "Baijnath",
+      "Trailing Party": "Samajwadi Party",
+      "Margin": 19103,
+      "Status": "Result Declared"
+    },
+    {
+      "Constituency": "Goverdhan",
+      "Const. No.": 346,
+      "Leading Candidate": "Shyam",
+      "Leading Party": "Bharatiya Janta Party",
+      "Trailing Candidate": "Baij Nath Dubey",
+      "Trailing Party": "Samajwadi Party",
+      "Margin": 6447,
+      "Status": "Result Declared"
+    },
+    {
+      "Constituency": "Mathura",
+      "Const. No.": 347,
+      "Leading Candidate": "Pradeep Mathur",
+      "Leading Party": "Indian National Congress",
+      "Trailing Candidate": "Badshah Singh",
+      "Trailing Party": "Bharatiya Janta Party",
+      "Margin": 6537,
+      "Status": "Result Declared"
+    },
+    {
+      "Constituency": "Chhata",
+      "Const. No.": 348,
+      "Leading Candidate": "Tej Pal Singh",
+      "Leading Party": "Rashtriya Lok Dal",
+      "Trailing Candidate": "Babu Ram M.Com",
+      "Trailing Party": "Bharatiya Janta Party",
+      "Margin": 6377,
+      "Status": "Result Declared"
+    },
+    {
+      "Constituency": "Mat",
+      "Const. No.": 349,
+      "Leading Candidate": "Shyam Sunder Sharma",
+      "Leading Party": "Akhil Bhartiya Lok Tantrik Congress",
+      "Trailing Candidate": "Babu Lal Kushwaha",
+      "Trailing Party": "Bahujan Samaj Party",
+      "Margin": 11384,
+      "Status": "Result Declared"
+    },
+    {
+      "Constituency": "Gokul",
+      "Const. No.": 350,
+      "Leading Candidate": "Prem Singh",
+      "Leading Party": "Rashtriya Lok Dal",
+      "Trailing Candidate": "Babu Lal",
+      "Trailing Party": "Samajwadi Party",
+      "Margin": 12243,
+      "Status": "Result Declared"
+    },
+    {
+      "Constituency": "Sadabad",
+      "Const. No.": 351,
+      "Leading Candidate": "Pratap",
+      "Leading Party": "Rashtriya Lok Dal",
+      "Trailing Candidate": "Azim Bhai",
+      "Trailing Party": "Samajwadi Party",
+      "Margin": 76,
+      "Status": "Result Declared"
+    },
+    {
+      "Constituency": "Hathras",
+      "Const. No.": 352,
+      "Leading Candidate": "Ramvir Upadhyay",
+      "Leading Party": "Bahujan Samaj Party",
+      "Trailing Candidate": "Ayodhya Prasad Pal",
+      "Trailing Party": "Bahujan Samaj Party",
+      "Margin": 25692,
+      "Status": "Result Declared"
+    },
+    {
+      "Constituency": "Sasni",
+      "Const. No.": 353,
+      "Leading Candidate": "Devki Nandan",
+      "Leading Party": "Bharatiya Janta Party",
+      "Trailing Candidate": "Awadhesh Prasad",
+      "Trailing Party": "Samajwadi Party",
+      "Margin": 8290,
+      "Status": "Result Declared"
+    },
+    {
+      "Constituency": "Sikandara Rao",
+      "Const. No.": 354,
+      "Leading Candidate": "Amar Singh Yadav S/o Sunder Singh",
+      "Leading Party": "Independent",
+      "Trailing Candidate": "Avdhesh Kumar",
+      "Trailing Party": "Bahujan Samaj Party",
+      "Margin": 5592,
+      "Status": "Result Declared"
+    },
+    {
+      "Constituency": "Gangiri",
+      "Const. No.": 355,
+      "Leading Candidate": "Vireshwar",
+      "Leading Party": "Samajwadi Party",
+      "Trailing Candidate": "Atiq Ahmad",
+      "Trailing Party": "Apna Dal",
+      "Margin": 10424,
+      "Status": "Result Declared"
+    },
+    {
+      "Constituency": "Atrauli",
+      "Const. No.": 356,
+      "Leading Candidate": "Kalyan Singh",
+      "Leading Party": "Rashtriya Kranti Party",
+      "Trailing Candidate": "Ashutosh Maurya Urf Raju",
+      "Trailing Party": "Samajwadi Party",
+      "Margin": 35148,
+      "Status": "Result Declared"
+    },
+    {
+      "Constituency": "Aligarh",
+      "Const. No.": 357,
+      "Leading Candidate": "Vivek Bansal",
+      "Leading Party": "Indian National Congress",
+      "Trailing Candidate": "Ashok Singh Chauhan",
+      "Trailing Party": "Bharatiya Janta Party",
+      "Margin": 24444,
+      "Status": "Result Declared"
+    },
+    {
+      "Constituency": "Koil",
+      "Const. No.": 358,
+      "Leading Candidate": "Mahender Singh",
+      "Leading Party": "Bahujan Samaj Party",
+      "Trailing Candidate": "Ashok Kumar",
+      "Trailing Party": "Bahujan Samaj Party",
+      "Margin": 7717,
+      "Status": "Result Declared"
+    },
+    {
+      "Constituency": "Iglas",
+      "Const. No.": 359,
+      "Leading Candidate": "Vijendra Singh",
+      "Leading Party": "Indian National Congress",
+      "Trailing Candidate": "Ashok Bajpai",
+      "Trailing Party": "Samajwadi Party",
+      "Margin": 9909,
+      "Status": "Result Declared"
+    },
+    {
+      "Constituency": "Barauli",
+      "Const. No.": 360,
+      "Leading Candidate": "Thakur Jaivir Singh",
+      "Leading Party": "Bahujan Samaj Party",
+      "Trailing Candidate": "Ashish Yadav",
+      "Trailing Party": "Samajwadi Party",
+      "Margin": 10494,
+      "Status": "Result Declared"
+    },
+    {
+      "Constituency": "Khair",
+      "Const. No.": 361,
+      "Leading Candidate": "Pramod Gaur",
+      "Leading Party": "Bahujan Samaj Party",
+      "Trailing Candidate": "Asha Kishor",
+      "Trailing Party": "Samajwadi Party",
+      "Margin": 362,
+      "Status": "Result Declared"
+    },
+    {
+      "Constituency": "Jewar",
+      "Const. No.": 362,
+      "Leading Candidate": "Narendra Kumar",
+      "Leading Party": "Bahujan Samaj Party",
+      "Trailing Candidate": "Arvind Giri",
+      "Trailing Party": "Samajwadi Party",
+      "Margin": 301,
+      "Status": "Result Declared"
+    },
+    {
+      "Constituency": "Khurja",
+      "Const. No.": 363,
+      "Leading Candidate": "Anil Kumar",
+      "Leading Party": "Bahujan Samaj Party",
+      "Trailing Candidate": "Aruna Tomar",
+      "Trailing Party": "Samajwadi Party",
+      "Margin": 7051,
+      "Status": "Result Declared"
+    },
+    {
+      "Constituency": "Debai",
+      "Const. No.": 364,
+      "Leading Candidate": "Kalyan Singh",
+      "Leading Party": "Rashtriya Kranti Party",
+      "Trailing Candidate": "Arun Veer Singh",
+      "Trailing Party": "Samajwadi Party",
+      "Margin": 26869,
+      "Status": "Result Declared"
+    },
+    {
+      "Constituency": "Anupshahr",
+      "Const. No.": 365,
+      "Leading Candidate": "Hoshiyar Singh",
+      "Leading Party": "Independent",
+      "Trailing Candidate": "Arun Kumari",
+      "Trailing Party": "Samajwadi Party",
+      "Margin": 993,
+      "Status": "Result Declared"
+    },
+    {
+      "Constituency": "Siana",
+      "Const. No.": 366,
+      "Leading Candidate": "Sunder Singh",
+      "Leading Party": "Rashtriya Kranti Party",
+      "Trailing Candidate": "Arun Kumar Meharotra",
+      "Trailing Party": "Bharatiya Janta Party",
+      "Margin": 2631,
+      "Status": "Result Declared"
+    },
+    {
+      "Constituency": "Agota",
+      "Const. No.": 367,
+      "Leading Candidate": "Kiran Pal Singh",
+      "Leading Party": "Samajwadi Party",
+      "Trailing Candidate": "Aqeelur Rehman Khan",
+      "Trailing Party": "Bahujan Samaj Party",
+      "Margin": 13492,
+      "Status": "Result Declared"
+    },
+    {
+      "Constituency": "Bulandshahr",
+      "Const. No.": 368,
+      "Leading Candidate": "Mahendra Singh Yadav",
+      "Leading Party": "Bharatiya Janta Party",
+      "Trailing Candidate": "Anwar Mahmood",
+      "Trailing Party": "Samajwadi Party",
+      "Margin": 4752,
+      "Status": "Result Declared"
+    },
+    {
+      "Constituency": "Shikarpur",
+      "Const. No.": 369,
+      "Leading Candidate": "Munshi Lal Gautam",
+      "Leading Party": "Bharatiya Janta Party",
+      "Trailing Candidate": "Anuradha Chaudhari",
+      "Trailing Party": "Rashtriya Lok Dal",
+      "Margin": 925,
+      "Status": "Result Declared"
+    },
+    {
+      "Constituency": "Sikandrabad",
+      "Const. No.": 370,
+      "Leading Candidate": "Ved Ram Bhati",
+      "Leading Party": "Bahujan Samaj Party",
+      "Trailing Candidate": "Anugrah Narain Alias Khokha Singh",
+      "Trailing Party": "Samajwadi Party",
+      "Margin": 7626,
+      "Status": "Result Declared"
+    },
+    {
+      "Constituency": "Dadri",
+      "Const. No.": 371,
+      "Leading Candidate": "Nawab Singh Nagar",
+      "Leading Party": "Bharatiya Janta Party",
+      "Trailing Candidate": "Ansar Ahmad",
+      "Trailing Party": "Apna Dal",
+      "Margin": 11310,
+      "Status": "Result Declared"
+    },
+    {
+      "Constituency": "Ghaziabad",
+      "Const. No.": 372,
+      "Leading Candidate": "Surendra Prakash Goel",
+      "Leading Party": "Indian National Congress",
+      "Trailing Candidate": "Anoop Kumar Pandey",
+      "Trailing Party": "Samajwadi Party",
+      "Margin": 4526,
+      "Status": "Result Declared"
+    },
+    {
+      "Constituency": "Muradnagar",
+      "Const. No.": 373,
+      "Leading Candidate": "Rajpal Tyagi",
+      "Leading Party": "Indian National Congress",
+      "Trailing Candidate": "Anis Ahmad Khan Alias Phool Babu",
+      "Trailing Party": "Bahujan Samaj Party",
+      "Margin": 3148,
+      "Status": "Result Declared"
+    },
+    {
+      "Constituency": "Modinagar",
+      "Const. No.": 374,
+      "Leading Candidate": "Narendra Singh Sisodiya",
+      "Leading Party": "Bharatiya Janta Party",
+      "Trailing Candidate": "Anil Kumar Verma",
+      "Trailing Party": "Samajwadi Party",
+      "Margin": 5435,
+      "Status": "Result Declared"
+    },
+    {
+      "Constituency": "Hapur",
+      "Const. No.": 375,
+      "Leading Candidate": "Dharampal",
+      "Leading Party": "Bahujan Samaj Party",
+      "Trailing Candidate": "Anil Kumar Verma",
+      "Trailing Party": "Bharatiya Janta Party",
+      "Margin": 8104,
+      "Status": "Result Declared"
+    },
+    {
+      "Constituency": "Garhmukteshwar",
+      "Const. No.": 376,
+      "Leading Candidate": "Madan Chouhan",
+      "Leading Party": "Samajwadi Party",
+      "Trailing Candidate": "Anil Kumar Singh Yadav",
+      "Trailing Party": "Samajwadi Party",
+      "Margin": 7444,
+      "Status": "Result Declared"
+    },
+    {
+      "Constituency": "Kithore",
+      "Const. No.": 377,
+      "Leading Candidate": "Shahid Manzoor",
+      "Leading Party": "Samajwadi Party",
+      "Trailing Candidate": "Anil Kumar Pandey",
+      "Trailing Party": "Samajwadi Party",
+      "Margin": 14169,
+      "Status": "Result Declared"
+    },
+    {
+      "Constituency": "Hastinapur",
+      "Const. No.": 378,
+      "Leading Candidate": "Prabhu Dayal",
+      "Leading Party": "Samajwadi Party",
+      "Trailing Candidate": "Anil Kumar Maurya",
+      "Trailing Party": "Bahujan Samaj Party",
+      "Margin": 3027,
+      "Status": "Result Declared"
+    },
+    {
+      "Constituency": "Sardhana",
+      "Const. No.": 379,
+      "Leading Candidate": "Prof. Ravindra Pundir",
+      "Leading Party": "Bharatiya Janta Party",
+      "Trailing Candidate": "Anil Kumar",
+      "Trailing Party": "Bahujan Samaj Party",
+      "Margin": 9545,
+      "Status": "Result Declared"
+    },
+    {
+      "Constituency": "Meerut Cantonment",
+      "Const. No.": 380,
+      "Leading Candidate": "Satya Prakash Agarwal (kailash Dairy Wale)",
+      "Leading Party": "Bharatiya Janta Party",
+      "Trailing Candidate": "Aneel",
+      "Trailing Party": "Samajwadi Party",
+      "Margin": 15435,
+      "Status": "Result Declared"
+    },
+    {
+      "Constituency": "Meerut",
+      "Const. No.": 381,
+      "Leading Candidate": "Dr. Laxmi Kant Vajpai",
+      "Leading Party": "Bharatiya Janta Party",
+      "Trailing Candidate": "Anar Singh Diwakar",
+      "Trailing Party": "Samajwadi Party",
+      "Margin": 23413,
+      "Status": "Result Declared"
+    },
+    {
+      "Constituency": "Kharkhauda",
+      "Const. No.": 382,
+      "Leading Candidate": "Haji Yaqoob",
+      "Leading Party": "Bahujan Samaj Party",
+      "Trailing Candidate": "Anand Sen",
+      "Trailing Party": "Samajwadi Party",
+      "Margin": 21317,
+      "Status": "Result Declared"
+    },
+    {
+      "Constituency": "Siwalkhas",
+      "Const. No.": 383,
+      "Leading Candidate": "Ranveer Rana",
+      "Leading Party": "Rashtriya Lok Dal",
+      "Trailing Candidate": "Anand Prakash Lohdi",
+      "Trailing Party": "Bahujan Samaj Party",
+      "Margin": 851,
+      "Status": "Result Declared"
+    },
+    {
+      "Constituency": "Khekra",
+      "Const. No.": 384,
+      "Leading Candidate": "Madan Bhaiya",
+      "Leading Party": "Independent",
+      "Trailing Candidate": "Amita Singh",
+      "Trailing Party": "Bharatiya Janta Party",
+      "Margin": 12556,
+      "Status": "Result Declared"
+    },
+    {
+      "Constituency": "Baghpat",
+      "Const. No.": 385,
+      "Leading Candidate": "Kawkab Hameed Khan",
+      "Leading Party": "Rashtriya Lok Dal",
+      "Trailing Candidate": "Ambika Chaudhari",
+      "Trailing Party": "Samajwadi Party",
+      "Margin": 14778,
+      "Status": "Result Declared"
+    },
+    {
+      "Constituency": "Barnawa",
+      "Const. No.": 386,
+      "Leading Candidate": "Samar Pal Singh",
+      "Leading Party": "Rashtriya Lok Dal",
+      "Trailing Candidate": "Ambesh Kumari",
+      "Trailing Party": "Samajwadi Party",
+      "Margin": 26596,
+      "Status": "Result Declared"
+    },
+    {
+      "Constituency": "Chaprauli",
+      "Const. No.": 387,
+      "Leading Candidate": "Ajay Kumar",
+      "Leading Party": "Rashtriya Lok Dal",
+      "Trailing Candidate": "Amar Singh Yadav S/o Sunder Singh",
+      "Trailing Party": "Independent",
+      "Margin": 63686,
+      "Status": "Result Declared"
+    },
+    {
+      "Constituency": "Kandhla",
+      "Const. No.": 388,
+      "Leading Candidate": "Virendra Singh",
+      "Leading Party": "Rashtriya Lok Dal",
+      "Trailing Candidate": "Amar Mani",
+      "Trailing Party": "Bahujan Samaj Party",
+      "Margin": 33880,
+      "Status": "Result Declared"
+    },
+    {
+      "Constituency": "Khatauli",
+      "Const. No.": 389,
+      "Leading Candidate": "Rajpal Singh Baliyan",
+      "Leading Party": "Rashtriya Lok Dal",
+      "Trailing Candidate": "Amar Jeet Singh \"jansewak\"",
+      "Trailing Party": "Bharatiya Janta Party",
+      "Margin": 28171,
+      "Status": "Result Declared"
+    },
+    {
+      "Constituency": "Jansath",
+      "Const. No.": 390,
+      "Leading Candidate": "Yashwant",
+      "Leading Party": "Rashtriya Lok Dal",
+      "Trailing Candidate": "Alok Kumar",
+      "Trailing Party": "Samajwadi Party",
+      "Margin": 9318,
+      "Status": "Result Declared"
+    },
+    {
+      "Constituency": "Morna",
+      "Const. No.": 391,
+      "Leading Candidate": "Rajpal Singh Saini",
+      "Leading Party": "Bahujan Samaj Party",
+      "Trailing Candidate": "Ali Bahadur",
+      "Trailing Party": "Bahujan Samaj Party",
+      "Margin": 6773,
+      "Status": "Result Declared"
+    },
+    {
+      "Constituency": "Muzaffarnagar",
+      "Const. No.": 392,
+      "Leading Candidate": "Chitranjan Swarup",
+      "Leading Party": "Samajwadi Party",
+      "Trailing Candidate": "Alambadi",
+      "Trailing Party": "Samajwadi Party",
+      "Margin": 9123,
+      "Status": "Result Declared"
+    },
+    {
+      "Constituency": "Charthawal",
+      "Const. No.": 393,
+      "Leading Candidate": "Uma",
+      "Leading Party": "Bahujan Samaj Party",
+      "Trailing Candidate": "Akshaiber Lal",
+      "Trailing Party": "Bharatiya Janta Party",
+      "Margin": 1245,
+      "Status": "Result Declared"
+    },
+    {
+      "Constituency": "Baghra",
+      "Const. No.": 394,
+      "Leading Candidate": "Anuradha Chaudhari",
+      "Leading Party": "Rashtriya Lok Dal",
+      "Trailing Candidate": "Akhilesh Kumar Singh",
+      "Trailing Party": "Indian National Congress",
+      "Margin": 17829,
+      "Status": "Result Declared"
+    },
+    {
+      "Constituency": "Kairana",
+      "Const. No.": 395,
+      "Leading Candidate": "Hukum Singh",
+      "Leading Party": "Bharatiya Janta Party",
+      "Trailing Candidate": "Ajit Kumar Urf Raju Yadav",
+      "Trailing Party": "Janata Dal (United)",
+      "Margin": 10483,
+      "Status": "Result Declared"
+    },
+    {
+      "Constituency": "Thana Bhawan",
+      "Const. No.": 396,
+      "Leading Candidate": "Kiran Pal",
+      "Leading Party": "Samajwadi Party",
+      "Trailing Candidate": "Ajay Rai",
+      "Trailing Party": "Bharatiya Janta Party",
+      "Margin": 9702,
+      "Status": "Result Declared"
+    },
+    {
+      "Constituency": "Nakur",
+      "Const. No.": 397,
+      "Leading Candidate": "Dr. Sushil Chaudhary",
+      "Leading Party": "Indian National Congress",
+      "Trailing Candidate": "Ajay Kumar",
+      "Trailing Party": "Rashtriya Lok Dal",
+      "Margin": 4184,
+      "Status": "Result Declared"
+    },
+    {
+      "Constituency": "Sarsawa",
+      "Const. No.": 398,
+      "Leading Candidate": "Dharam Singh",
+      "Leading Party": "Bahujan Samaj Party",
+      "Trailing Candidate": "Ajay Kapoor",
+      "Trailing Party": "Indian National Congress",
+      "Margin": 9554,
+      "Status": "Result Declared"
+    },
+    {
+      "Constituency": "Nagal",
+      "Const. No.": 399,
+      "Leading Candidate": "Ilam Singh",
+      "Leading Party": "Bahujan Samaj Party",
+      "Trailing Candidate": "Aditya Vikram Singh (Bonku Singh)",
+      "Trailing Party": "Samajwadi Party",
+      "Margin": 16484,
+      "Status": "Result Declared"
+    },
+    {
+      "Constituency": "Deoband",
+      "Const. No.": 400,
+      "Leading Candidate": "Rajendra Singh Rana",
+      "Leading Party": "Bahujan Samaj Party",
+      "Trailing Candidate": "Abdul Mannan",
+      "Trailing Party": "Bahujan Samaj Party",
+      "Margin": 8059,
+      "Status": "Result Declared"
+    },
+    {
+      "Constituency": "Harora",
+      "Const. No.": 401,
+      "Leading Candidate": "Mayawati",
+      "Leading Party": "Bahujan Samaj Party",
+      "Trailing Candidate": "Abdul Kalam",
+      "Trailing Party": "Samajwadi Party",
+      "Margin": 28901,
+      "Status": "Result Declared"
+    },
+    {
+      "Constituency": "Saharanpur",
+      "Const. No.": 402,
+      "Leading Candidate": "Sanjay Garg",
+      "Leading Party": "Jharkhand Party",
+      "Trailing Candidate": "Abdul Kalam",
+      "Trailing Party": "Samajwadi Party",
+      "Margin": 28004,
+      "Status": "Result Declared"
+    },
+    {
+      "Constituency": "Muzaffarabad",
+      "Const. No.": 403,
+      "Leading Candidate": "Jagdish Singh Rana",
+      "Leading Party": "Samajwadi Party",
+      "Trailing Candidate": "Abbas Ali Zaidi Urf Rushdi Miyan",
+      "Trailing Party": "Samajwadi Party",
+      "Margin": 8533,
+      "Status": "Result Declared"
+    }
+  ]
