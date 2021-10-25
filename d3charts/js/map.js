@@ -1,162 +1,190 @@
+//format to substitute data with abreviation
+var party_abrev = {
+    "Bharatiya Janta Party":"BJP", 
+    "Suheldev Bhartiya Samaj Party":"SBSP", 
+    "Bahujan Samaj Party":"BSP", 
+    "Samajwadi Party":"SP", 
+    "Independent":"IND", 
+    "Indian National Congress":"Congress", 
+    "Apna Dal (Soneylal)":"APS", 
+    "Rashtriya Lok Dal":"RLD", 
+    "Nirbal Indian Shoshit Hamara Aam Dal":"NISHAD"
+}
+
+//format to substitute data with color
+var partycolors = { 
+    "BJP":	"#ff9900",
+    "SBSP":	"#ff9900",
+    "BSP":	"#ff9900",
+    "SP":	"red",
+    "IND":	"red",
+    "Congress":	"red",
+    "APS":	"grey",
+    "RLD":	"blue",
+    "NISHAD":	"green"
+}
+
+
+
+
 function drawAssemblyMap(selector, settings){
-    // var width = 430, height = 550, scale = 2000, center = [83, 23]; 
-    // var state = settings.statecode;
-    // var source = settings.mapsource;
+    var width = 430, height = 350; 
+    var state = settings.statecode;
+    var source = settings.mapsource;
 
-    // d3.select(selector).html(null)
+    // empty selected container (required for redrawing map)
+    d3.select(selector).html(null)
+
+    // create and append svg to selected container with responsive setting
+    var svg = d3.select(selector)
+        .append("svg")
+        .attr("class", settings.vhcode+"map")
+        .attr("viewBox", "0 0 " + width + " " + height)
+        .attr("preserveAspectRatio", "xMinYMin")
+        .append("g")
+
+    var tool_tip = d3.tip()
+        .attr("class", "map-tooltip")
+        .offset([-15, 0])
+        .html(function(d) { 
+            var html = "<p>"+d.properties.ac_name+"</p> "
+            return html; 
+        });
+    svg.call(tool_tip);
+
+    var projection = d3.geoMercator()
+        .scale(settings.scale)
+        .center(settings.center)
+        .translate([width / 2, height / 2])
+
+    var geoPath = d3.geoPath()
+        .projection(projection)
+    
+    d3.json(source, function(error, stateShape){
+        
+        // Converts and extracts topojson to map
+        var stateconst = topojson.feature(stateShape, stateShape.objects.collection).features;
+        console.log(stateconst);
+
+        svg.selectAll(".state")
+            .data(stateconst).enter().append("path")
+            .attr("d", geoPath)
+            .attr("class", function(d) {
+                return "const c" + d.properties.ac;
+            })
+            .attr('stroke', "#ccc")
+            .attr('stroke-width', "0.2")
+            .on('mouseover', tool_tip.show) // to enable d3tip tooltips
+            .on('mouseout', tool_tip.hide) // to disable d3tip tooltips
+            .attr('data-color', function(d,i){
+                var fdTrendData2017 = constwisetrenddata2017.filter(function(obj){
+                    return obj["constNo"] === d.properties.ac;
+                })
+
+                // console.log(fdTrendData2017[0])
+
+                // enter the filtered data in abreviation and colors object
+                return partycolors[party_abrev[fdTrendData2017[0]["leadingParty"]]];
+                
+            })
+            .attr('fill', function(d,i){
+                var fdTrendData2017 = constwisetrenddata2017.filter(function(obj){
+                    return obj["constNo"] === d.properties.ac;
+                })
+
+                // console.log(fdTrendData2017[0])
+
+                // enter the filtered data in abreviation and colors object
+                return partycolors[party_abrev[fdTrendData2017[0]["leadingParty"]]];
+                
+            })
+            .on('click', function(d,i){
+                
+                
+                d3.selectAll(".const").attr("stroke", "#ccc").attr("stroke-width", "0.2")
+
+                d3.select(".c"+d.properties.ac).attr("stroke", "black").attr("stroke-width", "5")
+
+                $('#const-list').val(d.properties.ac).trigger('change')
+
+
+                filterNDisplay2017(d.properties.ac);
+
+                
+            })
+
+            // filter const data by default on load
+            var defaultUPData = constwisetrenddata2017.filter(function(obj){
+                return obj["constNo"] === settings.defaultconst;
+            })
+
+            d3.select(".const_name").html(defaultUPData[0]["constituency"])
+            d3.select(".status").html(defaultUPData[0]["status"])
+            d3.select(".leadCandName").html(defaultUPData[0]["leadingCandidate"] + " <span>("+party_abrev[defaultUPData[0]["leadingParty"]]+")</span>")
+            d3.select(".trailingCandName").html(defaultUPData[0]["trailingCandidate"] + " <span>("+party_abrev[defaultUPData[0]["trailingParty"]]+")</span>")
+            d3.select(".margin").html(defaultUPData[0]["margin"].toLocaleString('en-IN'))
+
+            // Select const path by default on load
+            d3.select(".c"+settings.defaultconst).attr("stroke", "black").attr("stroke-width", "5")
+
+            var selectDropdown = d3.select("#const-list")
+
+            selectDropdown.html(null);
+
+            var options = selectDropdown.selectAll('option')
+                .data(stateconst).enter()
+                .append('option')
+                .attr("value", function (d) { 
+                    return d.properties.ac; 
+                })
+                .attr("data-id", function (d) { 
+                    return d.properties.ac; 
+                })
+                .text(function (d) {
+                    // console.log(d.properties.ac_name);
+                    return d.properties.ac_name;
+                }); 
+
+            $('#const-list').val(settings.defaultconst).trigger('change')
+
+    }) // Statelevel Source
 
     
-
-    // var svg = d3.select(selector)
-    // .append("svg")
-    // .attr("class", settings.vhcode+"map")
-    // .attr("viewBox", "0 0 " + width + " " + height)
-    // .attr("preserveAspectRatio", "xMinYMin")
-    // .append("g")
-
-    // var tool_tip = d3.tip()
-    //     .attr("class", "map-tooltip")
-    //     .offset([-15, 0])
-    //     .html(function(d) { 
-    //         var html = "<p>"+d.properties.AC_NAME+"</p> "
-    //         return html; 
-    //     });
-    // svg.call(tool_tip);
-
-    // var projection = d3.geoMercator()
-    // .scale(settings.scale)
-    // .center(settings.center)
-    // .translate([width / 2, height / 2])
-
-    // var geoPath = d3.geoPath()
-    //     .projection(projection)
-
-
-    
-    //     d3.json(source, function(error, stateShape){
-
-    //         var stateconst = topojson.feature(stateShape, stateShape.objects.collection).features;
-
-    //         svg.selectAll(".state")
-    //                     .data(stateconst).enter().append("path")
-    //                     .attr("d", geoPath)
-    //                     .attr("class", "state")
-    //                     .attr('stroke', "#ffffff")
-    //                     .attr('stroke-width', "0.5")
-    //                     .attr('data-party', function(d,i){
-    //                         var fd2016 = constWiseData2016.filter(function(obj){
-    //                             return obj["constNo"] === d.properties.AC_NO;
-    //                         })
-
-    //                         if(state === "S22"){
-    //                             filterdatastatewise = "tn_conswise";
-    //                         }else if(state === "S03"){
-    //                             filterdatastatewise = "as_conswise";
-    //                         }else if(state === "S11"){
-    //                             filterdatastatewise = "kl_conswise";
-    //                         }else if(state === "U07"){
-    //                             filterdatastatewise = "pd_conswise";
-    //                         }else if(state === "S25"){
-    //                             filterdatastatewise = "wb_conswise";
-    //                         }
-
-    //                         if(fd2016[0] !== undefined){
-    //                             if($("#conts-2016").hasClass("active")) {
-    //                                 return fd2016[0]["leadingParty"];
-    //                             }else{
-
-    //                                 var fd = constWiseData2021[filterdatastatewise].filter(function(obj){
-    //                                     return obj["constNo"] === d.properties.AC_NO;
-    //                                 })
-    //                                 return fd[0]["leadingParty"];
-    //                             }
-    //                         }
-
-    //                     })
-    //                     .attr('fill', function(d,i){
-
-    //                         var fd2016 = constWiseData2016.filter(function(obj){
-    //                             return obj["constNo"] === d.properties.AC_NO;
-    //                         })
-
-    //                         var filterdatastatewise;
-
-    //                         if(state === "S22"){
-    //                             filterdatastatewise = "tn_conswise";
-    //                         }else if(state === "S03"){
-    //                             filterdatastatewise = "as_conswise";
-    //                         }else if(state === "S11"){
-    //                             filterdatastatewise = "kl_conswise";
-    //                         }else if(state === "U07"){
-    //                             filterdatastatewise = "pd_conswise";
-    //                         }else if(state === "S25"){
-    //                             filterdatastatewise = "wb_conswise";
-    //                         }
-                            
-    //                         if($("#conts-2016").hasClass("active")) {
-    //                             var whichstate = $(".dashfilters.active").val();
-    //                             if(fd2016[0] !== undefined){
-    //                                 if(whichstate === "West Bengal"){
-    //                                     return partycolors2016_wb[fd2016[0]["leadingParty"]];
-    //                                 }else if(whichstate === "Tamil Nadu"){
-    //                                     return partycolors2016_tn[fd2016[0]["leadingParty"]];
-    //                                 }else if(whichstate === "Kerala"){
-    //                                     return partycolors2016_kl[fd2016[0]["leadingParty"]];
-    //                                 }else if(whichstate === "Assam"){
-    //                                     return partycolors2016_as[fd2016[0]["leadingParty"]];
-    //                                 }else if(whichstate === "Puducherry"){
-    //                                     return partycolors2016_pd[fd2016[0]["leadingParty"]];
-    //                                 }else{
-
-    //                                     return partycolors[fd2016[0]["leadingParty"]];
-    //                                 }
-    //                             }else{
-    //                                 return "#FFFFFF"
-    //                             }
-    //                         }else{
-    //                                 fd = constWiseData2021[filterdatastatewise].filter(function(obj){
-    //                                     // console.log(obj)
-    //                                     return obj["constNo"] === d.properties.AC_NO;
-    //                                 })
-
-    //                                 if(fd[0] !== undefined){
-    //                                     if(state === "S22"){
-    //                                         return partycolors_tn[fd[0]["leadingParty"]];
-    //                                     }else if(state === "S03"){
-    //                                         return partycolors_as[fd[0]["leadingParty"]];
-    //                                     }else if(state === "S11"){
-    //                                         return partycolors_kl[fd[0]["leadingParty"]];
-    //                                     }else if(state === "U07"){
-    //                                         return partycolors_pd[fd[0]["leadingParty"]];
-    //                                     }else if(state === "S25"){
-    //                                         return partycolors_wb[fd[0]["leadingParty"]];
-    //                                     }
-    //                                 }else{
-    //                                     return "#FFFFFF";
-    //                                 }
-    //                         }     
-                            
-    //                     })
-    //                     .attr('stroke-opacity', "1")
-	// 					.attr("data-constcode", function(d,i){
-    //                         return d.properties.AC_NO;
-    //                     })
-    //                     .attr("data-statecode", function(d,i){
-    //                         return d['properties']['ST_CODE'];
-    //                     })
-    //                     .on('mouseover', tool_tip.show)
-    //                     .on('mouseout', tool_tip.hide)
-    //                     .on("click", function(d, i){ 
-                            
-    //                         if($("#conts-2016").hasClass("active")) {
-    //                             constFilter(d.properties.AC_NO, "data/const2016data.json?v=1235");
-    //                         } else {
-    //                             constFilter(d.properties.AC_NO, "data/const2021data.json?v=1235");
-    //                         }
-    //                         $('#const-list').val(d.properties.AC_NO).trigger('change')
-    //                     })
-
-    //     }) // Statelevel Source
  
 
+} // end of mapfunction
+
+drawAssemblyMap(".map", {
+    statecode: 'U07', // Statecode for map
+    vhcode: 'up', // state vehicle code
+    defaultconst: 175, // state vehicle code
+    mapsource: 'maps/UP.json', // add map topojson
+    scale: 2500, // size adjust until it sits well
+    center: [80.9462, 27.2] // enter lat long from google of UP
+})
+
+function displayConstituency(){
+
+    var chosenOption = $("#const-list").val();
+
+    d3.selectAll(".const").attr("stroke", "#ccc").attr("stroke-width", "0.2")
+    
+    d3.select(".c"+chosenOption).attr("stroke", "black").attr("stroke-width", "5")
+
+    filterNDisplay2017(parseInt(chosenOption));
+
+}
+
+
+function filterNDisplay2017(acno){
+    
+    var fdTrendData2017 = constwisetrenddata2017.filter(function(obj){
+        return obj["constNo"] === acno;
+    })
+
+    d3.select(".const_name").html(fdTrendData2017[0]["constituency"])
+    d3.select(".status").html(fdTrendData2017[0]["status"])
+    d3.select(".leadCandName").html(fdTrendData2017[0]["leadingCandidate"] + " <span>("+party_abrev[fdTrendData2017[0]["leadingParty"]]+")</span>")
+    d3.select(".trailingCandName").html(fdTrendData2017[0]["trailingCandidate"] + " <span>("+party_abrev[fdTrendData2017[0]["trailingParty"]]+")</span>")
+    d3.select(".margin").html(fdTrendData2017[0]["margin"].toLocaleString('en-IN'))
 }
