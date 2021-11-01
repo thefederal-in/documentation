@@ -25,6 +25,17 @@
             top: 35px;
             color: #333;
         }
+        .cooltip-box {
+            /* The box around the cooltip text */
+            stroke: orange;
+            stroke-width: 2;
+        }
+
+        .cooltip-text {
+            /* The cooltip text */
+            font-size: 150%;
+        }
+        
     </style>
     
 </head>
@@ -37,7 +48,7 @@
         </div>
         <div class="row">
             <div class="col-md-12">
-                <div class="horbarchart" id="seatshare2017">
+                <div id="seatshare2017">
                     
                 </div>
             </div>
@@ -48,6 +59,7 @@
     <script src="js/d3.v4.min.js"></script>
     <script src="js/topojson.v2.min.js"></script>
     <script src="js/d3-tip.js"></script> 
+    <script src='js/d3-cooltip.0.1.0.min.js'></script>
     <script src="js/horstackchart.js"></script>
     <script>
     //     var constwisetrenddata2017 = (function() {

@@ -17,7 +17,10 @@ function drawHorizontalStackChart(selection, stackdata, props) {
     var hordivcont = d3.select(selection)
     hordivcont.html(null)
 
-    hordivcont.selectAll(".block")
+    var addContainer = hordivcont.append("div")
+        .attr("class", "horbarchart")
+
+    addContainer.selectAll(".block")
         .data(stackdata).enter()
         .append("div").attr("class", "block")
         .style("background-color",  function(d,i){
@@ -30,6 +33,9 @@ function drawHorizontalStackChart(selection, stackdata, props) {
         .html(function(d,i){
             return '<span class="value">'+d[props["value"]]+'</span> <span class="label">'+d[props["label"]]+'</span>';
         })
+        .attr("title", function(d){
+            return d[props["label"]] +": "+ d[props["value"]];
+        }) //Tooltip
         
 
 } // end of horstackchart
